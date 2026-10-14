@@ -1,0 +1,168 @@
+! https://www.algumon.com/forum/t/%EC%95%A0%EB%93%9C%EA%B0%80%EB%93%9C-%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%95%84%ED%84%B0-%EC%9D%B8%EA%B0%84%EC%9D%B4-%EB%B0%89%EB%8B%A4-%EB%AA%A8%EB%93%9C/20066
+
+! Ppomppu PC: keep #topTitle, article .pic_bg tables, and #newbbs comments.
+ppomppu.co.kr,www.ppomppu.co.kr###header_box
+ppomppu.co.kr,www.ppomppu.co.kr##.contents_header
+ppomppu.co.kr,www.ppomppu.co.kr##.contents_header_sub_space
+ppomppu.co.kr,www.ppomppu.co.kr##.sidebar
+ppomppu.co.kr,www.ppomppu.co.kr##.floating-banner
+ppomppu.co.kr,www.ppomppu.co.kr##.floating-banner-sm
+ppomppu.co.kr,www.ppomppu.co.kr##footer.footer
+ppomppu.co.kr,www.ppomppu.co.kr##.gif_down-layer
+ppomppu.co.kr,www.ppomppu.co.kr##.container > div > #topTitle ~ :not(.pic_bg):not(#newbbs):not(script):not(style):not(link)
+ppomppu.co.kr,www.ppomppu.co.kr##.agent
+ppomppu.co.kr,www.ppomppu.co.kr##.recommendArea
+ppomppu.co.kr,www.ppomppu.co.kr###buttonBox
+ppomppu.co.kr,www.ppomppu.co.kr###viewTopMenuArea2
+ppomppu.co.kr,www.ppomppu.co.kr###command_bg3
+ppomppu.co.kr,www.ppomppu.co.kr###form_0
+ppomppu.co.kr,www.ppomppu.co.kr###table_write
+ppomppu.co.kr,www.ppomppu.co.kr###div_together_goods-container
+ppomppu.co.kr,www.ppomppu.co.kr###sharePopupArea
+ppomppu.co.kr,www.ppomppu.co.kr###pp_ban_bbs
+ppomppu.co.kr,www.ppomppu.co.kr###bbsAntiPopupArea
+ppomppu.co.kr,www.ppomppu.co.kr###htmlTarget
+ppomppu.co.kr,www.ppomppu.co.kr##.addFile
+ppomppu.co.kr,www.ppomppu.co.kr##.sns-popup-closer
+ppomppu.co.kr,www.ppomppu.co.kr##.ad_container
+ppomppu.co.kr,www.ppomppu.co.kr###view_f_1
+ppomppu.co.kr,www.ppomppu.co.kr###view_bottom_f_1
+ppomppu.co.kr,www.ppomppu.co.kr##.new-cmt-btn-pc
+ppomppu.co.kr,www.ppomppu.co.kr##.cmt-more-btn-pc.new-cmt-btn-pc
+ppomppu.co.kr,www.ppomppu.co.kr###hot-comment-preview
+ppomppu.co.kr,www.ppomppu.co.kr#$#.contents_header{display:none!important;}
+ppomppu.co.kr,www.ppomppu.co.kr#$#.contents_header_sub_space{display:none!important;}
+ppomppu.co.kr,www.ppomppu.co.kr#$#.agent{display:none!important;}
+ppomppu.co.kr,www.ppomppu.co.kr#$#.recommendArea{display:none!important;}
+ppomppu.co.kr,www.ppomppu.co.kr#$##buttonBox{display:none!important;}
+ppomppu.co.kr,www.ppomppu.co.kr#$##command_bg3{display:none!important;}
+ppomppu.co.kr,www.ppomppu.co.kr#$##form_0{display:none!important;}
+ppomppu.co.kr,www.ppomppu.co.kr#$##table_write{display:none!important;}
+
+! Ppomppu mobile: keep h4, .viAr article body, and #cmAr comments.
+m.ppomppu.co.kr##header.site-header
+m.ppomppu.co.kr###header-cover
+m.ppomppu.co.kr###side-menu
+m.ppomppu.co.kr###side-menu_back
+m.ppomppu.co.kr##footer.site-footer.bbs_view
+m.ppomppu.co.kr##.gif_down-layer
+m.ppomppu.co.kr###m_view_f_1
+m.ppomppu.co.kr###m_view_bottom_f_1
+m.ppomppu.co.kr###div_new_power_link_bottom
+m.ppomppu.co.kr##.ct > h3
+m.ppomppu.co.kr##.ct > nav
+m.ppomppu.co.kr##.ct > .bbs:not(.view)
+m.ppomppu.co.kr##.bbs.view > h4 ~ :not(.viAr):not(.cmt-topInfo):not(#myComment):not(#cmAr):not(script):not(style):not(link)
+m.ppomppu.co.kr##.bbs.view > .recommendArea
+m.ppomppu.co.kr##.bbs.view > .file_div
+m.ppomppu.co.kr##.bbs.view > .agent
+m.ppomppu.co.kr##.bbs.view > .btn_recom_01
+m.ppomppu.co.kr##.bbs.view > .share-popup
+m.ppomppu.co.kr##.bbs.view > .dimmed
+m.ppomppu.co.kr##.bbs.view > .bt
+m.ppomppu.co.kr##.bbs.view > .outside_hot
+m.ppomppu.co.kr##.bbs.view > .hot-imgBoard
+m.ppomppu.co.kr###div_together_goods-container
+m.ppomppu.co.kr###cmb
+m.ppomppu.co.kr###myComment
+m.ppomppu.co.kr###comment_warning
+m.ppomppu.co.kr###troll_popup-confirm
+m.ppomppu.co.kr###popupModalBackground
+m.ppomppu.co.kr###block_popup
+m.ppomppu.co.kr###blockPopupModalBackground
+m.ppomppu.co.kr##.new-cmt-btn
+m.ppomppu.co.kr##.cmt-more-btn.new-cmt-btn
+m.ppomppu.co.kr###hot-comment-preview
+m.ppomppu.co.kr###bbsAntiPopupArea
+m.ppomppu.co.kr###wrap > form
+m.ppomppu.co.kr###wrap > center
+m.ppomppu.co.kr##.outside_hot
+m.ppomppu.co.kr##.hot-imgBoard
+m.ppomppu.co.kr###feed_list_area
+m.ppomppu.co.kr##.hot-feed
+m.ppomppu.co.kr##ul[id^="feed_page_"]
+m.ppomppu.co.kr##.ct > div:has(> ul[id^="feed_page_"] > li[id^="js_feed_"].feed)
+m.ppomppu.co.kr###div_main_new_hot
+m.ppomppu.co.kr##section.community-board
+m.ppomppu.co.kr##section.best-board
+m.ppomppu.co.kr##section.gallery-board
+m.ppomppu.co.kr##section.news-board
+m.ppomppu.co.kr###wrap > .bbs:not(.view)
+m.ppomppu.co.kr#$#.ct > nav{display:none!important;}
+m.ppomppu.co.kr#$#.bbs.view > .recommendArea{display:none!important;}
+m.ppomppu.co.kr#$#.bbs.view > .agent{display:none!important;}
+m.ppomppu.co.kr#$#.bbs.view > .btn_recom_01{display:none!important;}
+m.ppomppu.co.kr#$##cmb{display:none!important;}
+m.ppomppu.co.kr#$##feed_list_area{display:none!important;}
+m.ppomppu.co.kr#$#.hot-feed{display:none!important;}
+
+! Quasarzone PC/mobile: keep .common-view-wrap article and .reply-wrap comments.
+quasarzone.com###header-top, #top-header, #menu-popup-wrap, #noti-popup-wrap, #search-popup-wrap
+quasarzone.com##.header-middle-layer, .header-menu-layer, .header-recent-visit-boards-layer, .header-search-layer
+quasarzone.com##aside.logo-area, body > [id^="banner-"], body > #bbs-bottom-banner-container, [id^="venatus"]
+quasarzone.com##.footer-layer, .fixed-func-wrap, .alert_box_wrap, .mb_alert_box_wrap, .image-popup
+quasarzone.com##.sub-content-wrap > .right-sub-wrap
+quasarzone.com#?#.left-con-wrap > :not(.common-view-wrap):not(.reply-wrap):not(script):not(style):not(link)
+quasarzone.com#?#.content.market-info-view-wrap > :not(.view-style01):not(.comment-style01):not(.list-util-area):not(script):not(style):not(link)
+quasarzone.com#?#.common-view-area > dl > dd > :not(.market-info-view-table):not(.view-content):not(script):not(style)
+quasarzone.com#?#.view-style01 > :not(.tit):not(.market-info-view-table):not(.view-content):not(script):not(style)
+quasarzone.com##.new-official-news, .best-official-news, .today-best-wrap
+quasarzone.com##.new-partner-saleinfo-container, .new-partner-saleinfo-horizontal-wrapper
+quasarzone.com##.list-board-wrap, .market-type-list, #write_new, #commentForm
+quasarzone.com###comment_sort
+quasarzone.com##.comment-style01 > .tab-area
+
+! Ruliweb PC/mobile: keep #board_read .board_main article and .comment_container comments only.
+bbs.ruliweb.com,m.ruliweb.com#?##main > .row > :not(#board):not(script):not(style):not(link)
+bbs.ruliweb.com,m.ruliweb.com#?##board > :not(#board_read):not(script):not(style):not(link)
+bbs.ruliweb.com,m.ruliweb.com#?##board_read > .content_wrapper > :not(.board_main):not(.board_bottom):not(script):not(style):not(link)
+bbs.ruliweb.com,m.ruliweb.com#?##board_read .board_bottom > :not(.comment_container):not(script):not(style):not(link)
+bbs.ruliweb.com,m.ruliweb.com##header, nav, footer, #board_top, #board_read_mid_best, #list_read_bottom, #board_list, #push_bar, #bbs_info, .fixed_ad_wrapper
+bbs.ruliweb.com,m.ruliweb.com###main > .side_wrapper, #board_read > .content_wrapper > .board_read_top, #board_read > .content_wrapper > .nbp_container
+bbs.ruliweb.com,m.ruliweb.com###board_read .ad_link_notice, #board_read .hotdeal-posts-container, #board_read .board_main_bottom, #board_read .nbp_container, #bbs_reading_m
+bbs.ruliweb.com,m.ruliweb.com##list_read_bottom1, list_read_bottom2, common_list_top_hotdeal
+bbs.ruliweb.com,m.ruliweb.com###cmt .comment_btn_wrapper, #cmt .comment_disable, #cmt .comment_reply
+bbs.ruliweb.com,m.ruliweb.com##.hotdeal-posts-box-m, .bbs_reading_m, .nbp_container, #mo_ad_board_read_03, .ad_wrapper
+bbs.ruliweb.com,m.ruliweb.com#$#.hotdeal-posts-box-m{display:none!important;}
+bbs.ruliweb.com,m.ruliweb.com#$##bbs_reading_m{display:none!important;}
+bbs.ruliweb.com,m.ruliweb.com#$#list_read_bottom1,list_read_bottom2,common_list_top_hotdeal{display:none!important;}
+
+! Clien PC/mobile: keep .post_title, .post_view, and .post_comment.
+clien.net,m.clien.net#@#.post_comment .comment.ad_banner
+clien.net,m.clien.net##nav.header_wrap, #menuTop, .nav_action, .aside, #down
+clien.net,m.clien.net##.content_view > .board_head, .content_view_list, .viewListArea, .view_button_area
+clien.net,m.clien.net###comment-head, #comment_write_div
+clien.net,m.clien.net##.post_writer, .writer_board, .signature, .signature-content, .comment_nav
+
+! Zod PC/mobile: keep .app-article-wrap article and .app-board-comment comments.
+zod.kr##header.app-header, .app-header-space, aside.layout-aside, #app-sidebar-left, .app-footer, .app-main-banner-bg
+zod.kr###app-board > .app-board-header, #app-board > .app-board-category, #app-board > .app-board-section:not(.app-board-comment), #app-board > .app-fr-button-wrap, #app-board > .xe-widget-wrapper
+zod.kr##.app-article-floating-menu, .app-article-floating-menu__wrap, .app-article-footer, .app-article-vote, .zod-article-action-buttons, .app-article-signature, .app-article-toolbar
+zod.kr##.app-board-comment > div.tw\:text-center.tw\:py-8.tw\:px-4, .app-comment-write, #recomment-write, #zod-app--sticker
+zod.kr##.layout-content.app-clearfix > div:not(main):not(.app-footer):has(.swiper-wrapper > a.swiper-slide[href*="/event"])
+zod.kr##.layout-content.app-clearfix > div:not(main):not(.app-footer):has(.swiper-wrapper img)
+zod.kr##.layout-content.app-clearfix > .app-mobile-only:has(a[href^="https://zod.kr/go/"])
+zod.kr##.layout-content.app-clearfix > .app-mobile-only:has(a[href^="/go/"])
+zod.kr##.layout-content.app-clearfix > div:has(> a[href^="https://zod.kr/go/"][target="_blank"] > img)
+zod.kr##.layout-content.app-clearfix > div:has(> a[href^="/go/"][target="_blank"] > img)
+zod.kr##[data-href^="https://zod.kr/go/"]:has(img)
+zod.kr##[data-href^="/go/"]:has(img)
+
+coolenjoy.net###bo_list_wrap
+coolenjoy.net###bo_v_atc > ul.na-table.d-table.w-100.text-muted.f-de.font-weight-normal:last-child > div.border.mx-3.mx-sm-0.mb-3.p-3:nth-child(3)
+coolenjoy.net###bo_v > div.clearfix.pt-2.px-3.px-sm-0.border-top.text-right:last-child
+coolenjoy.net###bo_vc_login
+coolenjoy.net###nt_body > div.nt-container:nth-child(2) > div.row.na-row:first-child > div.col-md-2.order-md-2.na-col.px-3:first-child
+coolenjoy.net###nt_footer
+coolenjoy.net###nt_header
+coolenjoy.net###nt_sidebar_move
+coolenjoy.net###nt_sticky
+coolenjoy.net###nt_title > div.nt-container.px-3.px-sm-4.px-xl-0
+coolenjoy.net###nt_wing > div.nt-container > div.wing-right.pt-4.mt-1
+gall.dcinside.com##.r_dcmedia, .r_recommend, .r_timebest
+m.dcinside.com##.view-btm-con
+
+www.google.com#?##Odp5De:has-text(AI 개요)
+www.google.com#?##main > [data-ved]:has-text(AI 개요)
+
+||www.reddit.com^$removeparam=tl
