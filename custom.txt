@@ -1,0 +1,7 @@
+gall.dcinside.com##.r_dcmedia, .r_recommend, .r_timebest
+m.dcinside.com##.view-btm-con
+
+www.google.com#?##Odp5De:has-text(AI 개요)
+www.google.com#?##main > [data-ved]:has-text(AI 개요)
+
+||www.reddit.com^$removeparam=tl

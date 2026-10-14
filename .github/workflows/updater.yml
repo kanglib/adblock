@@ -1,0 +1,17 @@
+on:
+  push:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+      - run: |
+          >dist.txt
+          cat algumon.txt custom.txt >>dist.txt
+      - uses: stefanzweifel/git-auto-commit-action@v7
