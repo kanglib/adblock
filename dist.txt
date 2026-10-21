@@ -47749,6 +47749,7 @@ search.brave.com##div.ai-digest
 search.brave.com#?##submit-llm-button:has-text(Ask)
 search.danawa.com###powerShoppingAreaBottom
 search.danawa.com###powerShoppingAreaTop
+search.danawa.com##.border.border-dnw-gray-250.bg-dnw-white.px-5.py-4.my-5
 search.danawa.com##.powershopping
 search.danawa.com,m.danawa.com###bottom-tabBarContainer > .box__tooltip-finance
 search.danawa.com,m.danawa.com###bottomTabBar-item-financeBenefit
@@ -61908,6 +61909,7 @@ zzzz.lol#?#.widget-side .widget-title:has(+ div a[href^="/bbs/link.php?bo_table=
 ||busan.com/nas/wcms/public/pc/images/new/bluebanner.png
 ||business-standard.com/covid-*.php
 ||business.ru/files/widgets/VKwidget
+||business.x.com^$removeparam=ref
 ||businessinsider.com/ajax/newsletter-dynamic
 ||businesspost.co.kr/images/banner/
 ||buxtehude.de/static/static/jscript/cookiedough_min.js
@@ -66798,6 +66800,7 @@ zzzz.lol#?#.widget-side .widget-title:has(+ div a[href^="/bbs/link.php?bo_table=
 ||search-ads-api.joongna.com^
 ||search.bilibili.com^$removeparam=from_source
 ||search.danawa.com/ajax/adProduct/$xmlhttprequest
+||search.danawa.com/api/proxy/search/api/ad/
 ||search.danawa.com/js/adSmart.min.js
 ||search.danawa.com/js/elevenStAd.min.js
 ||search.danawa.com/js/powerClick.min.js
