@@ -1,0 +1,2 @@
+! Title: kanglib/adblock
+! Expires: 6 hours

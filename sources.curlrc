@@ -1,0 +1,12 @@
+fail
+fail-early
+location
+write-out "\n"
+
+url https://filters.adtidy.org/extension/ublock/filters/14.txt
+url https://github.com/AdguardTeam/FiltersRegistry/raw/master/filters/filter_17_TrackParam/filter.txt
+url https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt
+url https://github.com/easylist/easylist/raw/master/fanboy-addon/fanboy_ai_suggestions.txt
+url https://github.com/quenhus/uBlock-Origin-dev-filter/raw/main/dist/brave/global.txt
+url https://github.com/quenhus/uBlock-Origin-dev-filter/raw/main/dist/google/global.txt
+url https://unpkg.com/@filteringdev/filterslists-ko@latest/dist/filterslist-uBlockOrigin.txt

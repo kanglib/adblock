@@ -1,0 +1,21 @@
+on:
+  push:
+  schedule:
+    - cron: '30 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+      - shell: bash
+        run: |
+          cp header.txt dist.txt
+          {
+            cat algumon.txt custom.txt
+            curl -K sources.curlrc
+          } | sed -E -e '/^(!|\[Adblock)/d' -e 's/[ \r]$//' | sort -u >>dist.txt
+      - uses: stefanzweifel/git-auto-commit-action@v7

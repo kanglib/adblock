@@ -1,0 +1,8 @@
+gall.dcinside.com##.gall_exposure, .r_recommend, .r_timebest, .rtbAlarmPopup
+m.dcinside.com##.view-btm-con
+
+www.google.com##li[data-attrid$="Prediction"]:has([aria-description="AI 모드"])
+www.google.com#?##Odp5De:has-text(AI 개요)
+www.google.com#?##main > [data-ved]:has-text(AI 개요)
+
+||www.reddit.com^$removeparam=tl
