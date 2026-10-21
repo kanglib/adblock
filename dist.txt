@@ -5458,6 +5458,7 @@ $script,redirect-rule=noop.js,domain=aternos.org
 @@||hooandja.ee/api/cookie-consent.data$domain=hooandja.ee
 @@||hopetech.com/_repository/*/ftpUploads/scripts/cookiepolicy.js
 @@||hoyabit.com/static/CookieConsent-*.js$domain=hoyabit.com
+@@||hs-scripts.com^$script,domain=almalaurea.it
 @@||htlbid.com/*/motherjones.com/htlbid.js$domain=motherjones.com
 @@||huaweiblog.de/wp-content/plugins/cookie-law-info/
 @@||hvcgroep.nl/themes/custom/hvcgroep_theme/assets/cookie-consent.json
@@ -7729,6 +7730,7 @@ allyoucanwatch.net###discordPop
 allyouplay.com##.cookie-card_container
 allzero.jp##+js(set-local-storage-item, /.__consent, emptyArr)
 almabetter.com##+js(set-session-storage-item, popup_viewed, true)
+almalaurea.it#@#.eu-cookie-compliance-banner:not(body):not(html)
 almamarket.pl###claw
 almanac.com##.block-listraksubscribe-block
 almanac.com##.newsletter-incontent
