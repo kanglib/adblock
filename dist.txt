@@ -10264,7 +10264,6 @@ banki.ru##section[data-test="currency-change-widget"]
 banki.ru##section[data-test="currency-widget"] > div.margin-bottom-medium
 banki.ru##section[data-test="widget-subscribe"]
 banki.ru##span[data-name="clip_top3debit"]
-banki.ru,gs24.pl,infobae.com,hna.de,indiatoday.in,clubic.com,semana.com,xataka.com.br,glavred.net,metropoles.com,autoevolution.com##a[href^="https://profile.google.com/cp/"]
 banki24.by##.content_right > div.row:has(> div > a[href="https://t.me/banki24_news"])
 banki24.by##a[href="https://t.me/banki24_news"]
 bankier.pl###exit-break-box:style(display: none !important;)
@@ -13304,6 +13303,7 @@ cameraprive.com##.is-alert-cookie
 camgirlbay.net##body > div[style^="position: fixed"][style*="background-color:"]:not([class]):not([id])
 camgirlbay.net,camwhores.video,camwhores.tv,cambabe.me##.hola_top_element
 caminteresse.fr###nl_popin
+camovue.com,reolink.com##div[class^="_gdpr-cookie-popup_"]
 camp-fire.jp###main ~ section > div[class]:has(> img[src*="_app"])
 camp-fire.jp##.app-install-banner-sp
 camp-fire.jp##.cookie-policy-agreement-notification
@@ -17738,6 +17738,10 @@ dobreprogramy.pl###divGoToWp
 dobreprogramy.pl##.wppwidget > #Player0.FloatingPlayer.floating
 dobro.mail.ru##.dobro-popup-subscribe
 dobro.mail.ru##.dobro-subscription_inline
+dobro.ru##.widget-icon
+dobro.ru##div.footer-column > div.tw\:v-stack:has(> div.tw\:v-stack > div.tw\:flex a[href^="https://www.rustore.ru/catalog/app"])
+dobro.ru##div.footer-column > form.tw\:v-stack:has(> .tw\:relative > div input[placeholder])
+dobro.ru##div[class^="CookiesModal-module"]
 dobro.ru##div[class^="CookiesModal_cookies__"]
 dobro.ru##div[class^="WeAreTogetherModal_modal__"]
 dobrodel.mosreg.ru##pgu-cookie-agreement-toast
@@ -36024,6 +36028,7 @@ merkmal-biz.jp###recruitlink
 merkur.de##.gv-7n-iwW-dockInnerWrapperDocked
 merkur.de##.player.pip
 merkur.de##revenue-reel-anchor + revenue-reel
+merkur.de,banki.ru,gs24.pl,infobae.com,hna.de,indiatoday.in,clubic.com,semana.com,xataka.com.br,glavred.net,metropoles.com,autoevolution.com##a[href^="https://profile.google.com/cp/"]
 merkur.de,heidelberg24.de##.cmp-modal-open:style(overflow: auto !important;)
 merkur.si##.cookie-notice:style(display: none !important;)
 merkur.si##body:style(overflow: auto !important;)
@@ -45506,7 +45511,6 @@ rentio.jp##.footer > div[class="border-top border-secondary"][style="background-
 rentio.jp##script + .karte-action-root.karte-modal-root[style="display: block;"]
 rentola.pl##.search-results > .col-sm-4:has(> .search-agent-signup-box)
 reolink.com##.reo-float-wrap-left-bottom
-reolink.com##div[class^="_gdpr-cookie-popup_"]
 reopen.europa.eu##.ecl-language-list
 repack-games.com##+js(addEventListener-defuser, contextmenu, undefined)
 repagalia.com,ejercito.defensa.gob.es##.msgcookie
