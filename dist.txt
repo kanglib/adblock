@@ -25487,6 +25487,7 @@ gregorypacks.com##.page > div.overlay-wrapper:has(> div.overlay-wrapper__contain
 gregorypacks.com##body:style(overflow: auto !important;)
 grepow.com##.aj-privacy-footer
 greynoise.io,maketecheasier.com##.sidebar-subscribe-box
+gridinsoft.com##.ai-chat-widget
 gridinsoft.com##.ckConsent
 gridoto.com,motorplus-online.com##div[class="video-box-wrap kgnowGate"]
 griffbereit24.de###cookie-banner:style(display: none !important;)
@@ -63453,6 +63454,7 @@ zzzz.lol#?#.widget-side .widget-title:has(+ div a[href^="/bbs/link.php?bo_table=
 ||embed.sendtonews.com^$domain=dailyrecordnews.com
 ||embed.tawk.to^$3p,domain=~roonlabs.com|~milesweb.co.uk
 ||embed.typeform.com/next/embed.js$domain=hush.ca|forbes.com
+||embed.vaile.ai/chat-widget-magic.iife.js
 ||embedded.wishpondpages.com/*/?parent_url
 ||embeds.beehiiv.com^$subdocument,domain=siliconera.com|moneycheck.com|knowtechie.com|esladvice.com
 ||emlak.mitula.com.tr/jsp/include/banners/bannerEmail
