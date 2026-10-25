@@ -62002,7 +62002,6 @@ zzzz.lol#?#.widget-side .widget-title:has(+ div a[href^="/bbs/link.php?bo_table=
 ||businesspost.co.kr/images/banner/
 ||buxtehude.de/static/static/jscript/cookiedough_min.js
 ||buy-*.piano.io/checkout/template/cacheableShow$domain=ansa.it|japantimes.co.jp
-||buy-*.piano.io/checkout/template/cacheableShow.html?aid=*&offerId=fakeOfferId
 ||buy-ap.piano.io/checkout/template/cacheableShow$domain=numero.jp
 ||buy-eu.piano.io/checkout/template/cacheableShow.html*&offerId=fakeOfferId&experienceId=$subdocument,domain=kathimerini.gr
 ||buy.11st.co.kr/cart/RecommendProduct.tmall
