@@ -12185,6 +12185,7 @@ bokadirekt.se##.cookie-modal:style(display: none !important;)
 bokadirekt.se##body:style(overflow: visible!important;)
 bokadirekt.se##html:style(overflow: visible!important;)
 bokadirekt.se#@#.cookie-content
+bokserkoland.pl###bk-cmp-banner
 bol.com###js_consent_bar
 bol.com##.js_cookie_message_container
 bol.de##body:style(overflow: auto !important; padding-right: 0 !important;)
@@ -23721,6 +23722,7 @@ getaround.com##.js_cookie-consent:style(display: none !important;)
 getaround.com##body:style(position: static !important;)
 getcertifiedgetahead.com##.et_bloom_flyin_right
 getcomics.org##.wpfront-notification-bar-spacer
+getdesign.md,postly.ai,brisanet.com.br##div[aria-labelledby="cookie-consent-title"]
 getdigital.de,mall.tv##.privacy-wrapper
 getdirecto.com##.cookies-components
 gethatch.com##.consently-bar
@@ -29497,7 +29499,6 @@ jbbs.shitaraba.net###staff_info
 jbl.de##.uim
 jbpo.or.jp###c_policy_wrap
 jbpress.ismedia.jp,5-fifth.com,spravochnick.ru##.m-popup
-jbpress.ismedia.jp,sapo.pt,net.hr,otonano-shumatsu.com,shiftdelete.net,eurogamer.net##.preferred-source
 jc.ne10.uol.com.br###rdmapps-webpush-main
 jcconcursos.com.br##.artigo_listing:has(> div > a[href^="/noticia/ofertas/"])
 jcconcursos.com.br##.jc-lgpd-consent
@@ -31463,7 +31464,6 @@ kttc.ru##.generateka:style(border: none!important; height: 0!important;)
 ku.edu.tr,homary.com##.cookie-policy-modal
 kuban24.tv##.news-channels
 kubnews.ru##.subscribe-channel
-kuchler-apotheken.de,drogeriedepot.de,sportboerse-shop.de,hirntot-shop.de,koffer.de,vansprint.de##+js(set-cookie, cookie-preference, 1)
 kuchnia.wp.pl##.content div[class*=" "] > div[class] > div[class*=" "]:has(> a[data-st-area="goToSG"][href="https://www.wp.pl"]:only-child)
 kuchnia.wp.pl##tr[data-reactid]:not([class]):not([id]) > td[class] > div[class*=" "]:has(> div[class*=" "] > iframe[src^="https://forms.freshmail.io/"])
 kuchniasklep.pl##dialog[class^="cookie-consent-"]
@@ -36780,6 +36780,7 @@ mobile01.com###smartbanner-area
 mobile01.com##body > div.fancybox-container:has(> div.fancybox-inner > div.fancybox-stage > div.fancybox-slide div.idlebox_ad)
 mobile01.com##body.fancybox-active:style(overflow: auto !important;)
 mobile2.24heures.ch,mobile2.berneroberlaender.ch,mobile2.bernerzeitung.ch,mobile2.landbote.ch,mobile2.langenthalertagblatt.ch,mobile2.lematin.ch,mobile2.tdg.ch,mobile2.thunertagblatt.ch,mobile2.zsz.ch,mobile2.zuonline.ch##.NnSocialMediaBox > div > .horizontal.mobile:not(.aggregated)
+mobileasia.com.pl##.left-0.right-0.z-\[100\].p-3.md\:p-4
 mobilegamer.biz###popmake-16757
 mobilelaby.com###wp-push-banner
 mobilemarketingreads.com##[class*="-newsletter"]
@@ -37791,6 +37792,7 @@ mycake.fr###elementor-popup-modal-67517
 mycare.de##+js(set-cookie, cookie-policy-accepted-v3, true)
 mychemicalromance.com###block-turnkeytoasterhtmlstructure
 mycinema.pro##footer > div > div
+mycoffeedealer.de,kuchler-apotheken.de,drogeriedepot.de,sportboerse-shop.de,hirntot-shop.de,koffer.de,vansprint.de##+js(set-cookie, cookie-preference, 1)
 mycompplus.ru##.sabs
 mycredit.ua##+js(remove-class, js_show-android, .wrapper)
 mycredit.ua##.js-modal-show:style(display: none !important;)
@@ -38332,7 +38334,6 @@ nazdarbazar.cz##.cookie__container_2
 nazya.com##.jGrowl
 nb2.bicerovo.ru,ingrad.ru###scb_bg
 nba.com###nba_tos
-nbastore.eu,f1store.formula1.com,store.chelseafc.com##.marketing-cookies-banner
 nbastore.jp,kitbag.com##.cookie-consent-container-v2
 nbblog.jp###App
 nbc.com##.responsive-app__cookies
@@ -39733,6 +39734,7 @@ novahd.cc##.promo-donate
 novahd.cc##.promo-side
 novakid.*,novakidschool.com##.gdpr-alert__overlay:style(display: none !important;)
 novakid.*,novakidschool.com##.no-scroll:style(overflow: auto !important;)
+novakidenglish.com,toei-metal.com,tokyorentacar.tokyo,mbsd.jp,artscouncil-tokyo.jp,t-bunka.jp,nmwa.go.jp,icu.ac.jp,sunazalea.or.jp,auburn.edu,hakuten.co.jp,digimobil.it,revealbi.io,yamaichi.co.jp,manda.co.jp,nipponsteel.com,novakidschool.com,novakid.*,bookmark.jpf.go.jp,atmmarketplace.com,zombit.info,digi.ro,freetour.com,digionline.ro,datatech.icu,occto.or.jp,rode.com,blockaway.net,nact.jp,gagaoolala.com,glasschain.org,tidesmarine.com,rentafont.com.ua,croxyproxy.net,croxyproxy.com,knoema.com,srilankan.com,werbemittel24.com,livemint.com,hindustantimes.com,bloomreach.com,esenbogaairport.com,fizzicseducation.com.au,branah.com,shellshock.io,fonts2u.com,otzyvua.net,velonews.com,wikihow.tech,bagdatbaharat.com.tr,escortbook.com,looper.com,fromdoctopdf.com,learnersdictionary.com,spanishdict.com,merriam-webster.com,antena3.ro,wikihow.com.tr,wikihow.cz,wikihow.it,wikihow.jp,wikihow.vn,wikihow.com,mobil.se,periscope-solutions.com,kyokuyo.co.jp###gdpr
 novakidschool.com##.flexTopbar[data-flex-topbar="bb-fallback"]
 novakidschool.com##.gdpr-overlay:style(display: none !important;)
 novakidschool.com##html:style(overflow: auto !important;)
@@ -43361,7 +43363,6 @@ postimees.ee,mi.com,analyticsvidhya.com,mega.nz,latestlaws.com,express.co.uk,yan
 postimees.ee,tvnet.lv##.digipakett-branding-root-container
 postium.ru##.hype-ad:has(> noindex > a[href="https://t.me/postiumru/"])
 postleitzahl.org###cmp
-postly.ai,brisanet.com.br##div[aria-labelledby="cookie-consent-title"]
 postnauka.ru##.brit-sub
 postnauka.ru##.sub-btn
 postnauka.ru##[class*="hist"][class*="sub"]
@@ -45682,6 +45683,7 @@ reviewjournal.com###rjth-region-amp-above-article-content:style(display: none !i
 reviewjournal.com##.amp-wp-header:style(margin-top: 0 !important;)
 reviewjournal.com##.rj-ins-obj
 reviewjournal.com,embarcadero.com##.signup-box
+reviews.konsumentenecho.de##.gap-4.bg-white.p-4.shadow-personal.md\:flex-row.md\:gap-40
 reviews.org##.REV-InContent-EmailSignUp-Internet
 reviews.org##.cl_gdpr_banner
 reviews.org##.header-disclaimer
@@ -50820,6 +50822,7 @@ store.onstove.com##.inds-gnb-banner
 store.playsum.live##astro-island > .bg-slate-100.dark\:bg-white.md\:items-center
 store.pokemongolive.com##.app-downloads-banner__container
 store.pokemongolive.com##main > div.flex:has(> div.bg-app-downloads)
+store.psg.fr,nbastore.eu,f1store.formula1.com,store.chelseafc.com##.marketing-cookies-banner
 store.shopping.yahoo.co.jp###smlmdl
 store.shopping.yahoo.co.jp##.elItemEntryLink[data-ylk^="slk:applnk"]
 store.shopping.yahoo.co.jp##div[class^="styles_buttons"] > div.Tip:has(> div.Tip__contents p.Tip__title:contains(ギフト機能が追加されました))
@@ -54151,7 +54154,6 @@ todes.ru##div[class^="CookiesModal_cook"]
 todoist.com##dialog[class^="cookie-banner-"]
 todoist.com,mosmetro.ru##cookie-banner
 todojujuy.com##.banner__newsletter
-toei-metal.com,tokyorentacar.tokyo,mbsd.jp,artscouncil-tokyo.jp,t-bunka.jp,nmwa.go.jp,icu.ac.jp,sunazalea.or.jp,auburn.edu,hakuten.co.jp,digimobil.it,revealbi.io,yamaichi.co.jp,manda.co.jp,nipponsteel.com,novakidschool.com,novakid.*,bookmark.jpf.go.jp,atmmarketplace.com,zombit.info,digi.ro,freetour.com,digionline.ro,datatech.icu,occto.or.jp,rode.com,blockaway.net,nact.jp,gagaoolala.com,glasschain.org,tidesmarine.com,rentafont.com.ua,croxyproxy.net,croxyproxy.com,knoema.com,srilankan.com,werbemittel24.com,livemint.com,hindustantimes.com,bloomreach.com,esenbogaairport.com,fizzicseducation.com.au,branah.com,shellshock.io,fonts2u.com,otzyvua.net,velonews.com,wikihow.tech,bagdatbaharat.com.tr,escortbook.com,looper.com,fromdoctopdf.com,learnersdictionary.com,spanishdict.com,merriam-webster.com,antena3.ro,wikihow.com.tr,wikihow.cz,wikihow.it,wikihow.jp,wikihow.vn,wikihow.com,mobil.se,periscope-solutions.com,kyokuyo.co.jp###gdpr
 toeic.com.sg##.aside-wrapper > #easy-opt-in-widget-2
 togetter.com###app_download_box
 togetter.com###appdl_bottom
@@ -60252,6 +60254,7 @@ zaks.ru##.zenblock
 zakzak.co.jp###main-column > .lazyload-wrapper:has(> header + .story-card-feed > span > a[data-gtm-category="contents"][data-gtm-action])
 zakzak.co.jp##.lazyload-wrapper:has(> div.story-card-feed > span > a[href="/economy/shopping/"])
 zakzak.co.jp##.youtube-announcement
+zakzak.co.jp,jbpress.ismedia.jp,sapo.pt,net.hr,otonano-shumatsu.com,shiftdelete.net,eurogamer.net##.preferred-source
 zalakirovano.ru##.sideSubscribeMe
 zalakirovano.ru##.subscribeme
 zalakirovano.ru##.swpmodal-container:style(display: none !important;)
