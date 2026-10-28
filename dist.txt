@@ -3752,6 +3752,7 @@ $script,redirect-rule=noop.js,domain=aternos.org
 2ememain.be##.hz-Listing--list-item:has(span:contains(/Topadvertentie|Pub au top/))
 2game.com,2game.pl###jvCookiePopup
 2game.com,bookland.com.pl##.GDPR-Popup
+2game.info##div[id][style^="position: fixed; left: 0px; right: 0px; bottom: 0px; z-index: 2147483646;"]
 2gis.*###root > div[dir="ltr"] > div[class] > div[class] > footer:has(a[href^="https://law.2gis."])
 2gis.*##+js(set-cookie, dg5_bnrcls_dskfrdprm, 1)
 2gis.*##._4xmcmq
@@ -9653,7 +9654,6 @@ automoto.it,moto.it##body > div#main-content:style(padding-top: 0px !important;)
 automotogarage.ru##.subscribe-win
 autonews.com##.article-recommended
 autonews.com##.block:has(> div.digital-edition-block > form.newsletter-signup-form)
-autonews.com,nerdwallet.com,creativebloq.com,space.com,nokiapoweruser.com,russianemirates.com,egw.news,androidcentral.com,t3n.de,theregister.com,lecrabeinfo.net,przegladsportowy.onet.pl,dailymail.com,tavovaikas.lt,thehill.com,gardenbetty.com,komputerswiat.pl,sportingnews.com,polskiobserwator.de,wiemy.to,wiwo.de,mainichikirei.jp,secretmelbourne.com,spur.hpplus.jp,spiegel.de,itmedia.co.jp,handelsblatt.com,ntv.co.jp,deview.co.jp,tokyo-np.co.jp,phileweb.com,antalyahurses.com,gazetevatan.com,hakimiyet.com,statusgator.com,dir.bg,leparisien.fr,macg.co,bikeperfect.com,fourfourtwo.com,maltatoday.com.mt,bartamanpatrika.com,sportiva.shueisha.co.jp,breitbart.com,upi.com,as.com,grandprix247.com,economx.hu,sporx.com,okmagazine.com,sq.com.ua,technologymagazine.com,tomshardware.com,timesofmalta.com,oricon.co.jp,fintechmagazine.com,evrensel.net,tamindir.com,teamtalk.com,football365.com,techradar.com,planetf1.com,windowscentral.com,phonearena.com,gamesradar.com,cinemaexpress.com,straitstimes.com,planetrugby.com,9to5mac.com,motorsport.com,tomsguide.com##a[href^="https://google.com/preferences/source?q="]
 autonews.fr##.bloc-netitmail
 autonocion.com###an-gfollow-wrap
 autonocion.com###us-box-btn
@@ -16858,6 +16858,7 @@ delt.io##.p-0.fcols > .text-center:has(> a[href^="https://www.buymeacoffee.com/"
 delta-emea.com,deltaww.com##.cookies--consent
 delta.com###ensModalWrapper
 delta.com###gdpr-banner-blurred-background
+delta.dev##astro-island[component-export="ConsentManager"]
 deltainternet.net.br###div-cookie
 deltiasgaming.com###block-7
 deluxe-marketing.com###dsgvo-cookie-container
@@ -34941,6 +34942,7 @@ mangaraw.plus##.fixed.bottom-0.standalone\:hidden
 mangarock.com###page-content .container > .row > div[class^="col-"] a[href="/membership"]
 mangarock.com##div[id^="vertical-page-"] > div[class][style] > div[style="position: absolute; top: 0px; left: 0px; right: 0px; bottom: 0px;"]:empty:style(display: none!important;)
 mangataro.org###welcome-modal
+mangataro.org,roliascan.com###upload-invite-banner
 mangatek.com###shop-update-modal
 mangatilkisi.com##.code-block-3
 mangatoon.mobi##[class$="-download-bg"]
@@ -36251,6 +36253,7 @@ mfo-matratzen.de##div[class*="newspopup_"]:style(display: none!important;)
 mfor.hu###mfor_cikk_beuszo
 mforos.com##body > style + div[id][class]:contains(Uso de cookies)
 mfront.homeplus.co.kr##.appInstallBanner
+mfuns.net##.m-open-app
 mga.aero##.bg-primary\/50.z-modal.w-full
 mgfimoveis.com.br###ucke
 mgmresorts.com###main + div.overview-component
@@ -40730,6 +40733,7 @@ oneslidephotography.com,apasih.my.id,financekami.com##+js(adjust-setInterval, wp
 onesports.ph##.cookies-notif
 onestop.co.uk###comp_tag_container
 onet.pl###paywall-SM_MODAL__modal
+onet.pl###pianoNewsletterPremiumIntext
 onet.pl##.Phx__backToOnetBottomBar > .barLink:style(display: none!important;)
 onet.pl##.Phx__backToOnetBottomBar:style(background: none!important; bottom: -60px!important;)
 onet.pl##.notificationPrompt
@@ -45993,6 +45997,7 @@ rocket-boys.co.jp##+js(addEventListener-defuser, DOMContentLoaded, timeModal)
 rocket-boys.co.jp##.fixed-bottom
 rocket-boys.co.jp##.share + div
 rocket-boys.co.jp##body[style^="position:"]:style(position: static !important; top: unset !important; width: unset !important;)
+rocket-boys.co.jp,autonews.com,nerdwallet.com,creativebloq.com,space.com,nokiapoweruser.com,russianemirates.com,egw.news,androidcentral.com,t3n.de,theregister.com,lecrabeinfo.net,przegladsportowy.onet.pl,dailymail.com,tavovaikas.lt,thehill.com,gardenbetty.com,komputerswiat.pl,sportingnews.com,polskiobserwator.de,wiemy.to,wiwo.de,mainichikirei.jp,secretmelbourne.com,spur.hpplus.jp,spiegel.de,itmedia.co.jp,handelsblatt.com,ntv.co.jp,deview.co.jp,tokyo-np.co.jp,phileweb.com,antalyahurses.com,gazetevatan.com,hakimiyet.com,statusgator.com,dir.bg,leparisien.fr,macg.co,bikeperfect.com,fourfourtwo.com,maltatoday.com.mt,bartamanpatrika.com,sportiva.shueisha.co.jp,breitbart.com,upi.com,as.com,grandprix247.com,economx.hu,sporx.com,okmagazine.com,sq.com.ua,technologymagazine.com,tomshardware.com,timesofmalta.com,oricon.co.jp,fintechmagazine.com,evrensel.net,tamindir.com,teamtalk.com,football365.com,techradar.com,planetf1.com,windowscentral.com,phonearena.com,gamesradar.com,cinemaexpress.com,straitstimes.com,planetrugby.com,9to5mac.com,motorsport.com,tomsguide.com##a[href^="https://google.com/preferences/source?q="]
 rocket-league.com###privacyPolicyInfo:style(display: none!important;)
 rocket-league.com##+js(abort-current-script, document.getElementById, .style.display=)
 rocket-league.com##.rlg-notificationperms
@@ -46049,7 +46054,6 @@ rolchem.com###ks-cookie-baner
 rolex.com##.rlx-popin
 rolf.ru,dekra.*,fromatob.de##.the-cookie-banner
 roliascan.com###rolia-plus-banner
-roliascan.com###upload-invite-banner
 roliascan.com###welcome-modal
 roll20.net,cleanmymac.com##.bottom-banner
 rollingstone.com###piano-sticky-footer
@@ -60865,7 +60869,6 @@ zzzz.lol#?#.widget-side .widget-title:has(+ div a[href^="/bbs/link.php?bo_table=
 ||23degrees.io/consent-banner
 ||24sata.hr/static/scripts/notifications/notifications.min.js
 ||2chnewsblog.blog.jp/imgrss_$subdocument
-||2game.info/ad/failed_ad_view.js
 ||2mdn.net^
 ||2nt.com/b/o/t/bottisoku/$subdocument,domain=bottisoku.blog.2nt.com
 ||2nt.com/m/a/t/matomate/rssblogroll.html
