@@ -54334,9 +54334,12 @@ tokopedia.com##div[aria-label="unf-overlay"]
 tokopedia.com##div[aria-label="unf-overlay"] + div:has(> a[class*="unf-modal"])
 tokopedia.com##div[data-testid="WTA-TopSticky"]
 toku-p.earth-car.com##app-add-to-home-screen
+tokubai.co.jp###float_web2app_smart_phone_wrapper
+tokubai.co.jp##.popup_banner_image[data-imp-hakari-keyword]:style(display: none !important;)
 tokubai.co.jp##.refusable_app_banner_wrapper
 tokubai.co.jp##.smart_app_banner
-tokubai.co.jp##.track_hakari_once
+tokubai.co.jp##.track_hakari_once:style(display: none !important;)
+tokubai.co.jp##body[style="overflow-y: hidden;"]:style(overflow-y: auto !important;)
 tokybook.com##.banner-formtoky
 tokyo-calendar.jp###global-header-open-app-div:style(display: none !important;)
 tokyo-calendar.jp###overlayBanner
