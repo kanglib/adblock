@@ -3835,7 +3835,7 @@ $script,redirect-rule=noop.js,domain=aternos.org
 3dnews.ru##.js-mediator-article > div#newsSlider
 3dnews.ru,irecommend.ru##.ymarket-affiliate-widget
 3downnation.com###mvp-content-main > div#riders-signup
-3downnation.com,ugreen.com,gasjeans.com,dollardays.com,lawnmowertirestore.com,geekom.de,secretlab.eu,cross.com,flip.gr,hoffmann-germany.de,centrumzdrowegowlosa.pl,groworganic.com,urnex.com,hermanmiller.co.jp,audeze.com,shopyalehome.com,hanfgefluester.de,bleachpraylove.com,720dgree.de,vpd.fi##.needsclick
+3downnation.com,gasjeans.com,dollardays.com,lawnmowertirestore.com,geekom.de,secretlab.eu,cross.com,flip.gr,hoffmann-germany.de,centrumzdrowegowlosa.pl,groworganic.com,urnex.com,hermanmiller.co.jp,audeze.com,shopyalehome.com,hanfgefluester.de,bleachpraylove.com,720dgree.de,vpd.fi##.needsclick
 3dpchip.com##+js(aopw, HTMLAnchorElement.prototype.onclick)
 3dpchip.com##+js(prevent-xhr, /compass.adop.cc|adsbygoogle|taboola/, emptyStr)
 3dporndude.com##.remove_ads
@@ -22182,6 +22182,7 @@ ford-salon.pl##body.modal-open:style(overflow: auto !important;)
 ford.*##div[class^="cookie-disclaimer-"]
 ford.biacomex.pl,gazetki-promocyjne.net.pl,inbank.pl,thekrazycouponlady.com,volcanoteide.com,veloplanner.com,instytutsprawobywatelskich.pl###cookie-consent-modal
 ford.ca##.cookie-notice-overlay
+ford.com.tr##.fop-chatbot-toggle-container
 foreca.fi,terve.fi,lily.fi,meillakotona.fi,eeva.fi,apu.fi,nokia.com###cmp-modal
 foreca.it,foreca.ru###ckieconsent
 foreignaffairs.com###newsletter-sign-up-message
@@ -28242,6 +28243,7 @@ indiatimes.com##body .adBanner:style(display: block!important;)
 indiatimes.com##div[class^="ntfc_"]
 indiatoday.in###tapBoxId
 indiatoday.in##+js(abort-on-property-read, notifyMe)
+indiatoday.in##.ai_assist_logo
 indiatoday.in##.ai_assist_logo:has(> div.prefer-us-link)
 indiatoday.in##.downloadapp__section
 indiatoday.in##.mainBorromSliderSec
@@ -45241,8 +45243,6 @@ realtor.com##.custom-email-signup-article-page
 realtor.com##.local-listings-widget
 realtor.com##.product-specific-widget
 realtor.com##div[class^="MobileBannerstyles"]
-realtree.com##.klaviyo-prevent-body-scrolling:style(overflow: auto !important;)
-realtree.com##.needsclick:style(display: none !important;)
 realty.chosun.com##.bnr_area a[target]:not([href*="//realty.chosun.com/"])
 realty.chosun.com##iframe[src*="//realty.chosun.com/RealtyCommon/Promotion"][src$=".html"]
 realty.ya.*##.SmartBanner
@@ -52636,7 +52636,6 @@ telnavi.jp##.strWrapper > div[class="boxTy1"]:has(> div > div.app_link)
 telnavi.jp##div.strWrapper > div.content-slot-html:has(> p.badge > a[href^="https://play.google.com/store/apps/"])
 telnavi.jp##table > tbody > tr:has(> th:contains(PR文))
 telnyx.com##footer + div[class^="styled__Container-"]:has(> div[class^="styled__CookieText-"])
-telset.ee##.accept-cookie-wrap
 teltarif.de##.ttGoogleAbo
 teltarif.de##.ttconsent
 teltarif.de,krautundrueben.de,psw-group.de,gluehbirne.de,blastbrigade.com,tonspion.de,bier.by,test.de,kicker.de##div[id^="cmpbox"]
@@ -55897,6 +55896,8 @@ ugreen.com###ecomsend-widget
 ugreen.com###shopify-section-top-activity-bar
 ugreen.com###smile-ui-lite-container
 ugreen.com##body > div[style="visibility: visible;"]:has(> div > iframe#launcher)
+ugreen.com,realtree.com##.klaviyo-prevent-body-scrolling:style(overflow: auto !important;)
+ugreen.com,realtree.com##.needsclick:style(display: none !important;)
 ugx-mods.com###ugx_cookie_info_bar
 uhaul.com###nativeAppBanner
 uhrenlounge.de##.ajs-cookies
@@ -60177,6 +60178,7 @@ yorkshirepost.co.uk##.dailymotion-player-wrapper[style*="--position-right"]
 yorukoglusut.com.tr###close-me
 yorumbudur.com##+js(set-constant, ads, true)
 yoshidakenkou.net###header-rss
+yoshimura-jp.com,telset.ee##.accept-cookie-wrap
 yoso.sp.netkeiba.com###NewPointAreaBaseBrowser
 yota.ru##.b-info-message
 yota.ru,ckeditor.com,awwwards.com,iconosquare.com,movistarplus.es##.banner-cookies
