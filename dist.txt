@@ -48676,6 +48676,7 @@ share.upmc.com###homeEmail
 share.upmc.com##.sfmc-combo-module
 sharedine.me##.fixed.bottom-0.bg-bannerBackGround
 sharemods.com##+js(adjust-setTimeout, tick, 1000, 0.001)
+shareplace.org##.nv-cookie
 shareradio.it,benessererboristico.it,open-minds.it###my-agile-privacy-notification-area
 sharesight.com###gatsby-focus-wrapper > div[class^="Containerstyled__BannerContainer-"]:has(> p > a[href="/cookie-policy/"])
 sharesome.com##.c-CookieDisclaimer
@@ -54664,7 +54665,6 @@ top1.money##.qr-code
 top1.money##div.instagram-modal:style(display: none !important;)
 top10mais.org###wpca-bar
 top10mais.org##+js(addEventListener-defuser, copy, nocopas)
-top10vpn.com,ideafintl.com###notification-bar
 top4mobile.hr##body #cookieModal:style(display: none !important;)
 top4mobile.hr##body:not([data-bs-overflow]) .modal-backdrop:style(display: none !important;)
 top4mobile.hr##body:not([data-bs-overflow]):style(overflow: auto !important; padding-right: 0 !important;)
@@ -56476,6 +56476,7 @@ upworthy.com##body[style]:style(overflow: auto !important;)
 upworthy.com##div[id^="spopup-newsletter"]:style(display: none !important;)
 upwr.edu.pl##.modal-backdrop:style(display: none !important;)
 upwr.edu.pl##.modal-open:style(overflow: auto !important;)
+uqload.vc,uqload.*###uqCookie
 uqwimax.jp##.uqv2-globalAd
 ura-inform.com##.top-banner
 ura.news##.cR
@@ -58601,6 +58602,7 @@ werbringtwas.com#@#.cc-banner
 werbringtwas.com#@#.cc-window[aria-label="cookieconsent"]
 werder.de##body > .c-slide-up.js-slide-in
 werkenntdenbesten.de##div[x-data="modules.cookieBanner()"]
+werkenvoornederland.nl,top10vpn.com,ideafintl.com###notification-bar
 werkerswelt.de,hagebau.*##.js-cookie-hint
 werkzeugdiscount24.de##+js(set-cookie, mnd-cookie-accepted-wwwwerkzeugdiscountde1, 1)
 werkzeugstore24.de##.e3n_cookiebanner
