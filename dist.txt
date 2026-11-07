@@ -58265,6 +58265,8 @@ weather.yahoo.co.jp###doubleImage
 weather.yahoo.co.jp###intrsttl
 weather.yahoo.co.jp###rbnr > p[style="margin:0px 0px 20px 0px;text-align:center;"]
 weather.yahoo.co.jp##.appLink
+weather.yahoo.co.jp##.digestBlog > div#promo:has(> p > a[href="https://weather.yahoo.co.jp/weather/promo/app/"])
+weather.yahoo.co.jp##.digestBlog > section#induction:has(> button[onclick="location.href='https://weather.yahoo.co.jp/weather/promo/app/'"])
 weather.yahoo.co.jp##.doubleImage_cardBetween
 weather.yahoo.co.jp##.footeLinkPromo
 weather.yahoo.co.jp##.kizashiPromo
