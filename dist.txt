@@ -8407,6 +8407,7 @@ anthropic.com##.footer_group_item:has(> #privacy-choices-btn)
 anthropic.com##div[class^="ConsentBanner-module-"]
 anthropic.com##div[class^="ConsentBanner_"]
 anthropic.com##div[class^="NewsletterEngineering"]
+anthropic.com,negi-lab.com,gloria24.pl,gaius-lex.*,finlandiabusiness.fi,sohosystems.co.za,tesco.com,tempgmail.net,gwmanz.com,order.maxburgers.com,gamereplays.org,haafedkgsm.com,ipleaks.io,haafedk2.com,terraform.io,talkai.info,support.github.com,shop.retoura.de,audibkk.de,customsearch.ai,thesimsresource.com###consent-banner
 anthropologie.com,urbanoutfitters.com###modal form#email-sign-up-form:upward(#modal):style(display: none!important;)
 anthropologie.com,urbanoutfitters.com##.cookie-message__cookieMessage
 anthropologie.com,urbanoutfitters.com##body[style="overflow: hidden;"]:style(overflow: auto!important;)
@@ -21543,6 +21544,7 @@ finanzen.net###template-popup-integration
 finanzen.net##.fnet-nl-ic
 finanzen.net##.fnet-nlpop-lock:style(overflow: auto!important;)
 finanzen.net##.fnet-nlpop__overlay:style(display: none!important;)
+finanzen.net##div[data-page-header-slot="dynamic-content-boxes"]
 finanzfluss.de##.mb-\[24px\].w-full.rounded-\[16px\].lg\:px-\[24px\] > .lg\:max-w-homepageContent
 finanzfluss.de##.page-content > div:only-child > div[class]:has(> .flex > img[srcset*="buch"])
 finanznachrichten.de##.modal-scrollable
@@ -38660,7 +38662,6 @@ neg.by##.header-neg-rek
 neg.by##.parallax-neg-rek-wrap
 neg.by##.right > div.right_element_container_arch:has(> a[href="/podpiska"])
 neg.by##.section-top-banner
-negi-lab.com,gloria24.pl,gaius-lex.*,finlandiabusiness.fi,sohosystems.co.za,tesco.com,tempgmail.net,gwmanz.com,order.maxburgers.com,gamereplays.org,haafedkgsm.com,ipleaks.io,haafedk2.com,terraform.io,talkai.info,support.github.com,shop.retoura.de,audibkk.de,customsearch.ai,thesimsresource.com###consent-banner
 negisoku.com###main > div.column-inner > div.column-inner-2 > div[style^="overflow: auto;"]
 negisoku.com###rss-box ~ br
 negisoku.com##.article-body-more > p[style="color:gray;text-align:right;"]
