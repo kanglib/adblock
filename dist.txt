@@ -1042,6 +1042,7 @@
 ##.Section-Cookie
 ##._iph_cp_standalone
 ##._popIn_recommend_article_ad
+##.accept-cookie-outer
 ##.accept-cookies
 ##.acceptCookies
 ##.acceptCookiesBox
@@ -7494,6 +7495,7 @@ aksarayhaberci.com##.whatsapp-se-btn
 aksel.com.pl##div[aria-labelledby="cookie-banner-description"]
 akt.no#@#.cookie-consent-content
 aktiencheck.de###side_teaser_topleft
+aktienmagazin.de##.tfcookie-modal
 aktin.sk,aktin.cz###snippet-modalStack-cookieModal-snModal:style(display: none !important;)
 aktin.sk,aktin.cz##body[style]:style(overflow: auto !important; margin-right: 0 !important; height: unset !important;)
 aktion-mensch.de##.am-cookie-notice
@@ -11558,6 +11560,7 @@ bits.media##.article-page > div:has(> p > strong > a[href^="https://t.me/"])
 bits.media##.subscribe-form-news
 bitso.com##+js(set-cookie, bitso_cc, 1)
 bitso.com##.jUXBqh
+bitstru.com,ncfu.ru,officialworms.com,pan.dev,sbm-rail.com,walbrzyszek.com,grabrfi.com,setlgroup.ru,antalyakorfez.com,tvlaint.com,donatov.net,kursiv.media,peepshow.com,dobrosvyaz.com,rentalstudio-toki.com,jelonka.com,esim.io,lineup11.net,steps.app,irisohyama.co.jp,amateure-treffen.com,medikom.ua,atso.org.tr,kastamonu.edu.tr,denizpay.com,spbsez.ru,acnturk.com.tr,buzzspot.net,gazetegercek.com.tr,priem.menu,sinparty.com,akillibiletim.com,create2-3-1.jp,settsu-inc.com,okayama-u.ac.jp,duhuliye.com,colbase.nich.go.jp,freepdfconvert.com,3delite.hu,red-gate.com,labellemontagne.com,princess-kyoto.co.jp,13.231.85.245,positivegroup.org,robo-cube.com,kubotaap.com,vandalspirit.tokyo,mvv-creator-pro.com,clanx.ai,mkw-ss.com,obiho.com,miyazakicarferry.com,uwajima.org,weekly-monthly.net,protopixel.io,cotogoto.ai,itabashi-hasunishi.com,shotoku.tv,aircon-cleaning.idemitsu.com,mukonoso-shihoshoshi.com,wao-archi.com,zoon.ru,road2west.gr,laptoparena.net,teamxlink.co.uk,gameflip.com,mahfda.com,dexterdaily.com,jackbox.tv,kia-dacar.ru,htc.com,link.me,faberlic.com,asepta.ru,kanazawalabo.net,osintbay.com,cedarus.io,miuithemez.com,animaapp.com,trodo.com,trodo.de,grandoptical.cz,ssb.ee,doj.me,colamyhome.eu,webhallen.com,cloudxpe.com,openeyesfund.com,lordgun.com,inwild.com,runkd.com,yokohamajapan.com,noor-book.com,impactoespananoticias.com,fxpro.*,cart.hostinger.com,hogskolanigavle.varbi.com,manual.canon,kia.ru,chiba-tv.com,ftm.nl,radios.co.at,radiosdepuertorico.com,jamaicaradio.net,radios.com.sv,radios.hn,radios.com.pa,radiosaovivo.net,radios.com.bo,radioarg.com,radios.com.co,radios.com.ec,emisoras.com.py,radios.com.pe,surinaamseradio.com,radios.com.uy,radio.co.ve,radiolisten.de,raadiod.com,emisora.org.es,radiofona.com.gr,radios.hr,ieradio.org,latvijasradio.com,radios.lu,radijas.org,radiohallgatas.hu,nederlandseradio.nl,nettradionorge.com,onlineradio.pl,radioonline.com.pt,radiosonline.ch,radiostanice.rs,nettiradiot.org,radio.org.se,internetradiouk.com,bg-radio.org,radio.pp.ru,radio.co.cm,radio.cd,radio.co.ci,radio.com.gh,radio.mg,radio.co.ma,egyptradio.net,radio.org.ng,radio.sn,radiosa.org,radiotunisienne.org,radio.co.ug,radios.hk,onlineradios.in,radioonline.co.id,radioonline.my,radionp.com,radio.net.pk,radio.org.ph,radiosingapore.org,radio.com.lk,vietnamradio.org,radios.org.il,radioth.net,zhibo.fm,radioau.net,radio.org.nz,emisoras.com.gt,radio.org.ro,siradio.si,ceskaradiaonline.cz,ecouterradioenligne.com,radiosonline.be,radios.co.ni,radioalgerie.eu,radios.co.cr,radio.or.ke,radios.tw,radioonline.kr,radio-bd.com,radios.com.do,trinidadradiostations.net,emisora.cl,radio.ht,radio.co.dk,emisoras.com.mx,instant.audio,radiosdecuba.com,consenthub.utiq.com,sketchup.com,bitstamp.net,hesburger.*,znews.vn,amomeupet.org,egrp365.ru,sqlservercentral.com,saneibd.com,edukasicampus.net,0patch.com,pvpoke-re.com,radioua.net,greenday.com,linuc.org,clicsante.ca,israelnationalnews.com,serpstat.com,pandavpnpro.com,freeyourmusic.com,x5.ru,adshnk.com,parkernathan.com,pastelink.net,dictum.com,tamtam.chat,881903.com,olyrix.com,asm.org,socialcomics.com.br,ascoltareradio.com,storececotec.it,geeksforgeeks.org,dauc.cz,heidisql.com,sueddeutsche.de,plex.tv,tmohentai.com,gorsovet.com.ua,higonavi.net,shizuoka-navichi.net,nagasaki-yokanavi.net,fukulabo.net,gifucomi.net,gunlabo.net,sanlabo.net,shonan-navi.net,kagobura.net,kochidon.net,privmx.com,nnscan.com##.cookie-consent
 bittorrent.com##.prodnews-container div[class^="col-"] > div.row:has(> div[class] > div[id="emailFormContainer"])
 bittorrent.com##.prodnews-container div[class^="col-"] > div.row:has(> div[class] a[id^="prodnews-go-adfree-"])
 bittorrent.com,utorrent.com##.consent-banner-container
@@ -15664,6 +15667,8 @@ coucounews.com##main > div.px-2 > div:not([class]):not([style]) > div.text-left 
 counter.dev,sports.yahoo.co.jp,cxid.info,zaehlerschrank24.de,wppbaz.com,prostobank.ua,jav.one,smclinic-spb.ru,haberkibris.com,thurrott.com,choiz.me,indianastrology.com,ipinfo.io,firsatbufirsat.com,wotsite.net,gulte.com###overlay
 counterpath.zendesk.com##.flash-cookie
 countrylifevitamins.com##.subscribe-overlay
+coupang.com###bottom-sheet-nudge
+coupang.com###coupang-banner
 coupang.com###fullBanner
 coupang.com###product-list > li:has(div[class^="AdMark_adMark__"][data-adsplatform])
 coupang.com###product-list > li[class^="ProductUnit"]:has(.fw-opacity-50.fw-text-\[12px\].fw-text-bluegray-900)
@@ -20476,6 +20481,7 @@ eventfrog.ch,eventfrog.de###tf-modal-container
 eventix.io##.ot-cookies
 evently.pl#@#.cookie-consent-banner
 events.ultraceofficial.com##body > div > div[tabindex] > div.vi-fixed
+eventsify.ai##div[aria-label="Cookie choices"]
 evermotion.org##.full-overlay
 evernote.com##+js(set-local-storage-item, cookie-notice-dismissed, true)
 evernote.com,pelando.com.br,bandlab.com###download-app-banner
@@ -22861,6 +22867,7 @@ fubo.tv##div[style^="display: flex;"] > div[class^="css-"]:has(> div[class^="css
 fuchs.com###cookie-banner-with-settings
 fucknovelpia.com##.install-banner
 fudge.jp##.ratio-wrapper
+fuelyourbody.de##div[aria-label="Cookies bei Fuelyourbody"]
 fufuskitchen.com###save-this-recipe
 fufuskitchen.com##.kadence-conversion-wrap
 fujifilm.com##.m-cookie-confirm
@@ -23797,7 +23804,6 @@ gentosha-go.com##img[src^="https://ggo.ismcdn.jp/common/ggo/images/v1/mailmagazi
 gentside.com,maxisciences.com##.invite-popin#newsletter-invite
 gentside.de##body .post-actions > .button-subscribe
 genussmagazin-frankfurt.de,journal-frankfurt.de###nutzungs_einverstaendnis
-genz-regelt.de,dnsbyte.com,chargeiq.com.tr,kobelco-fpc.com,liki.ua,halkbank.com.tr,nacalai.co.jp,zenit.ru,ccb.ru,ipracujzdalnie.pl,plus.usio.co.jp,upc-osaka.ac.jp,seims.co.jp,etelecom.ru,fujiyakuhin.co.jp,toyota-odesa.com.ua,inteltoys.ru,domik-v-derevne.com,evorkshop.com,avic.jp,sms-activate.*,investcapital.com.mt,kamrti.com,gorenje-ru.ru,italiadomani.gov.it,msvsphere-os.ru,sms-activate.page,u-mama.ru,visionexpress.pl,psoriaz.life,poisknews.ru##.cookie
 geo.de##.nlAnmeldg
 geo.de,essen-und-trinken.de##.pier12-popup
 geo.de,essen-und-trinken.de,gala.de,livingathome.de,pm-magazin.de,schoener-wohnen.de,stern.de##.guj-cb
@@ -27195,6 +27201,8 @@ hotair.com,gazetadopovo.com.br##html > body.tp-modal-open:style(overflow: auto !
 hotcars.com##+js(set-cookie-reload, articleLimitCooldown, true)
 hotcourses.ru###ckieOvrlayDiv:style(display: none !important;)
 hotcourses.ru###cookiePopUpId:style(display: none !important;)
+hotdeals.com##+js(set-cookie, retainPopV2, hide, hotdeals.com)
+hotdeals.com,genz-regelt.de,dnsbyte.com,chargeiq.com.tr,kobelco-fpc.com,liki.ua,halkbank.com.tr,nacalai.co.jp,zenit.ru,ccb.ru,ipracujzdalnie.pl,plus.usio.co.jp,upc-osaka.ac.jp,seims.co.jp,etelecom.ru,fujiyakuhin.co.jp,toyota-odesa.com.ua,inteltoys.ru,domik-v-derevne.com,evorkshop.com,avic.jp,sms-activate.*,investcapital.com.mt,kamrti.com,gorenje-ru.ru,italiadomani.gov.it,msvsphere-os.ru,sms-activate.page,u-mama.ru,visionexpress.pl,psoriaz.life,poisknews.ru##.cookie
 hotel.de##.hde-cookie-consent
 hotel.kyoto##.gdpr_msg
 hotelbania.pl##+js(set-cookie, _BEAcceptedCookies_hotelbaniathermalski, necessary)
@@ -36061,6 +36069,7 @@ meijer.com##div[data-destinationlink$=":::mPerksAcquisition"]
 meijutt.tv##.widget-weixin
 meilblog.com##div[class^="meilb-"]
 meilleurtaux.com#@#.ad-placement
+mein-berlin.net###vc-cmp-overlay
 mein-eigenheim.de###cookieabfrage
 mein-eigenheim.de##.overlay_cookiebanner
 mein-gartenexperte.de##div[id^="flowin-exit"]
@@ -38582,7 +38591,6 @@ nc.ox-tv.co.jp##.container_banner.shadow
 ncars.com.ua##.lkdm_vw__container
 ncbi.nlm.nih.gov##.nCoV_shutdown
 nccgroup.com##section[class*="media-image-"].u-white-content
-ncfu.ru,officialworms.com,pan.dev,sbm-rail.com,walbrzyszek.com,grabrfi.com,setlgroup.ru,antalyakorfez.com,tvlaint.com,donatov.net,kursiv.media,peepshow.com,dobrosvyaz.com,rentalstudio-toki.com,jelonka.com,esim.io,lineup11.net,steps.app,irisohyama.co.jp,amateure-treffen.com,medikom.ua,atso.org.tr,kastamonu.edu.tr,denizpay.com,spbsez.ru,acnturk.com.tr,buzzspot.net,gazetegercek.com.tr,priem.menu,sinparty.com,akillibiletim.com,create2-3-1.jp,settsu-inc.com,okayama-u.ac.jp,duhuliye.com,colbase.nich.go.jp,freepdfconvert.com,3delite.hu,red-gate.com,labellemontagne.com,princess-kyoto.co.jp,13.231.85.245,positivegroup.org,robo-cube.com,kubotaap.com,vandalspirit.tokyo,mvv-creator-pro.com,clanx.ai,mkw-ss.com,obiho.com,miyazakicarferry.com,uwajima.org,weekly-monthly.net,protopixel.io,cotogoto.ai,itabashi-hasunishi.com,shotoku.tv,aircon-cleaning.idemitsu.com,mukonoso-shihoshoshi.com,wao-archi.com,zoon.ru,road2west.gr,laptoparena.net,teamxlink.co.uk,gameflip.com,mahfda.com,dexterdaily.com,jackbox.tv,kia-dacar.ru,htc.com,link.me,faberlic.com,asepta.ru,kanazawalabo.net,osintbay.com,cedarus.io,miuithemez.com,animaapp.com,trodo.com,trodo.de,grandoptical.cz,ssb.ee,doj.me,colamyhome.eu,webhallen.com,cloudxpe.com,openeyesfund.com,lordgun.com,inwild.com,runkd.com,yokohamajapan.com,noor-book.com,impactoespananoticias.com,fxpro.*,cart.hostinger.com,hogskolanigavle.varbi.com,manual.canon,kia.ru,chiba-tv.com,ftm.nl,radios.co.at,radiosdepuertorico.com,jamaicaradio.net,radios.com.sv,radios.hn,radios.com.pa,radiosaovivo.net,radios.com.bo,radioarg.com,radios.com.co,radios.com.ec,emisoras.com.py,radios.com.pe,surinaamseradio.com,radios.com.uy,radio.co.ve,radiolisten.de,raadiod.com,emisora.org.es,radiofona.com.gr,radios.hr,ieradio.org,latvijasradio.com,radios.lu,radijas.org,radiohallgatas.hu,nederlandseradio.nl,nettradionorge.com,onlineradio.pl,radioonline.com.pt,radiosonline.ch,radiostanice.rs,nettiradiot.org,radio.org.se,internetradiouk.com,bg-radio.org,radio.pp.ru,radio.co.cm,radio.cd,radio.co.ci,radio.com.gh,radio.mg,radio.co.ma,egyptradio.net,radio.org.ng,radio.sn,radiosa.org,radiotunisienne.org,radio.co.ug,radios.hk,onlineradios.in,radioonline.co.id,radioonline.my,radionp.com,radio.net.pk,radio.org.ph,radiosingapore.org,radio.com.lk,vietnamradio.org,radios.org.il,radioth.net,zhibo.fm,radioau.net,radio.org.nz,emisoras.com.gt,radio.org.ro,siradio.si,ceskaradiaonline.cz,ecouterradioenligne.com,radiosonline.be,radios.co.ni,radioalgerie.eu,radios.co.cr,radio.or.ke,radios.tw,radioonline.kr,radio-bd.com,radios.com.do,trinidadradiostations.net,emisora.cl,radio.ht,radio.co.dk,emisoras.com.mx,instant.audio,radiosdecuba.com,consenthub.utiq.com,sketchup.com,bitstamp.net,hesburger.*,znews.vn,amomeupet.org,egrp365.ru,sqlservercentral.com,saneibd.com,edukasicampus.net,0patch.com,pvpoke-re.com,radioua.net,greenday.com,linuc.org,clicsante.ca,israelnationalnews.com,serpstat.com,pandavpnpro.com,freeyourmusic.com,x5.ru,adshnk.com,parkernathan.com,pastelink.net,dictum.com,tamtam.chat,881903.com,olyrix.com,asm.org,socialcomics.com.br,ascoltareradio.com,storececotec.it,geeksforgeeks.org,dauc.cz,heidisql.com,sueddeutsche.de,plex.tv,tmohentai.com,gorsovet.com.ua,higonavi.net,shizuoka-navichi.net,nagasaki-yokanavi.net,fukulabo.net,gifucomi.net,gunlabo.net,sanlabo.net,shonan-navi.net,kagobura.net,kochidon.net,privmx.com,nnscan.com##.cookie-consent
 nch.com.au,nchsoftware.com###ckndiv
 ncl.com###header > .m5.-bg-dark.wrapper
 ncl.com##.m5
@@ -44021,8 +44029,11 @@ prod.danawa.com###DnwListContents > .list-main-content > div.z-10
 prod.danawa.com###DnwListContents > .list-main-content div.border:has(> div:not([class]) > ul[aria-label="파워쇼핑 광고 목록"])
 prod.danawa.com###DnwListContents aside div:not([class]):has(> .relative > .swiper):has(> div + ._flex-between > button[aria-label="이전 배너"])
 prod.danawa.com###auto_area2 > .auto_product_list
+prod.danawa.com###brandZoneArea
+prod.danawa.com###brandZoneArea + div[class]:has(> div.justify-between > div.items-center > a[href="https://ads.naver.com/sa"])
 prod.danawa.com###powerShoppingContent
 prod.danawa.com###productListArea > div > div[aria-label="애드리더 광고"]
+prod.danawa.com###productListArea > div[aria-label="애드스타 광고"]
 prod.danawa.com##+js(adjust-setTimeout, goLink(, 3000)
 prod.danawa.com##.dnw-ad-slot
 proddigital.com.br##.stickyscroll_widget
@@ -50409,6 +50420,7 @@ sport-plus-online.com##body:style(overflow: auto !important;)
 sport-plus-online.com#@##cookieModal
 sport.bg,sportal.bg##.spd-overlay:style(display: none!important;)
 sport.bg,sportal.bg##body[style="overflow: hidden;"]:style(overflow: visible!important;)
+sport.de##.hs-google-button
 sport.de##a.hs-app
 sport.detik.com##.detail__body-text > div.aevp:has(> div.pip-vid.sisip_video_ds)
 sport.es,elperiodico.com##+js(set-constant, _an.ABMode, undefined)
@@ -52918,6 +52930,7 @@ tenorshare.ru,passfab.ru,wondershare.*###gdprAgree
 tenorshare.ru,tenorshare.jp,passfab.ru###banner-seasonal
 tenshoku.mynavi.jp##.infoConsentModal
 tenshoku.mynavi.jp##.topHeaderBanner__block
+tensixty.bio##.analytics-consent
 tenstorrent.com##body:style(overflow: auto !important; padding-right: 0 !important;)
 tenstorrent.com##div[data-testid="cookie-popup"]:style(display: none !important;)
 teploradost.com.ua###modal-discount
@@ -53763,6 +53776,7 @@ thepostmillennial.com##.modal-backdrop
 thepostmillennial.com##div[aria-labelledby="modalLabel"][aria-modal="true"]
 thepostmillennial.com,wheelofnames.com##.sp-overlay
 thepounddropper.com,kids-in-mind.com,telecompetitor.com,boardingarea.com,digitalic.it,diariosanrafael.com.ar##.et_bloom_optin:not(#style_important)
+thepracticalbyte.com###consent-panel
 thepresetsroom.com,krupp-krankenhaus.de,encoreungateau.com###ct-ultimate-gdpr-cookie-popup
 theprint.in##.td-fix-index > p.postBtm
 theprint.in##div.post_contribute
