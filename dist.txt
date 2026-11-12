@@ -3350,6 +3350,7 @@ $script,redirect-rule=noop.js,domain=aternos.org
 0rechner.de###precmpdialog
 0taku.livedoor.biz##div[id^="m_rss"]
 1-2-3.tv##+js(set-cookie, pageHint, 1)
+1-ofd.ru,permira.com,cartetika.ru,imperialorchestra.ru,scan.com.ru,checkscan.ru,mondlicht-studios.de,re-books.ru,practicum.com,jush.pl##body .t972__banner
 1.fm##.gdprcookiescont
 100.com.tw##.evaluation-normal:style(display: none !important;)
 100.com.tw##.van-overflow-hidden:style(overflow: auto !important;)
@@ -3607,7 +3608,7 @@ $script,redirect-rule=noop.js,domain=aternos.org
 1tv.ru##.itv-push-suggest
 1tv.ru##.player > div[class*="eump-minimized"]
 1tv.ru##.title__social__link
-1und1.net,sheffdocfest.com,cetmen.com.tr,polymtl.ca,oxfam.org,efka.gov.gr,c-budejovice.cz,veolia.de,iyihisset.com,amerika21.de,museicapitolini.org,developer.nvidia.com,zillya.com,inrim.it,jneurosci.org,medrxiv.org,novartis.com.tr,royal.uk,transcom.com,netcologne.de,belltower.news,bigfm.de,click.ro,demokrata.hu,emma.de,gysev.hu,humanite.fr,ikgastarten.nl,la7.it,london.gov.uk,mavcsoport.hu,mcdonalds.at,mcdonalds.it,mises.org,mnm.hu,musescore.com,nbcsports.com,pnas.org###sliding-popup
+1und1.net,sheffdocfest.com,cetmen.com.tr,polymtl.ca,oxfam.org,efka.gov.gr,c-budejovice.cz,veolia.de,iyihisset.com,amerika21.de,museicapitolini.org,developer.nvidia.com,zillya.com,inrim.it,jneurosci.org,medrxiv.org,novartis.com.tr,royal.uk,transcom.com,netcologne.de,belltower.news,bigfm.de,click.ro,demokrata.hu,emma.de,gysev.hu,humanite.fr,ikgastarten.nl,london.gov.uk,mavcsoport.hu,mcdonalds.at,mcdonalds.it,mises.org,mnm.hu,musescore.com,nbcsports.com,pnas.org###sliding-popup
 1v9.gg,humboldtforum.org##+js(set-cookie, acceptCookie, true)
 1voice.gr##.footer-widgets
 1voice.gr,odishabytes.com,campaigntr.com,derstarih.com,justnerd.it##.more-stories
@@ -16488,6 +16489,7 @@ danskeci.com,danskebank.dk,danskebank.com,danskebank.fi##html.cookie-consent-ban
 danskeci.com,danskebank.dk,danskebank.com,danskebank.fi#@#.cookie-consent-banner
 dantri.com.vn##div[data-module="cognito-form"]
 dantri.com.vn##div[data-module="user-onboarding"][data-register="true"]
+daoasia.ee##div[aria-label="Küpsiste valik"]
 daotranslate.com,easyayurveda.com##+js(abort-on-property-read, wccp_pro_iscontenteditable)
 darakwon.co.kr##.main6.bottomto50
 daraz.com.bd##.J_NavScroll:style(margin-top: 0 !important;)
@@ -31927,7 +31929,6 @@ la-croix.com,kyivindependent.com##iframe[src^="https://frontend.poool.fr/"]
 la-palma24.info##.dvcookies
 la.lv##.article-embed-video-iframe iframe:style(position: absolute !important;)
 la3eb.com##div[class^="AllowCookiesDisclaimer"]
-la7.it,sony.ua,sony.ru,priceless.com,gazzetta.it###_evh-ric
 laanevirumaauudised.ee##div[class^="CookieBarElements"]
 lab.kutikomi.com##.wrap-mailmag
 lab.sonicmoov.com###side-banner
@@ -34822,7 +34823,7 @@ magzter.com##.cookies__notification
 mahitiplus.com,recruitmentaim.in##+js(adjust-setInterval, timer, *, 0.001)
 mahjong.co.uk##.adBlocked
 mahjong.co.uk##div[data-type="yad"]:style(visibility: hidden !important;)
-mahsunsports51.xyz,mahsunsports52.xyz,mahsunsports58.xyz##.floating-telegram
+mahsunsports51.xyz,mahsunsports52.xyz,mahsunsports59.xyz##.floating-telegram
 maidenhead-advertiser.co.uk###popuptest
 maidenhead-advertiser.co.uk,neoseeker.com##+js(no-setTimeout-if, .offsetHeight === 0)
 mail.com##+js(set-cookie, euconsent-bypass, 1)
@@ -41048,6 +41049,8 @@ onlinepenztarca.hu#@#.cookie-container
 onlinepngtools.com,onlinetools.com##+js(set-cookie, discountPrice, true)
 onliner.by##.consent-app
 onliner.by##.news-text > div.news-media_condensed:has(> div.news-media__inside a[target="_blank"][href])
+onliner.by##.news-text > p[style="text-align: right;"]:has(> strong > a[href="https://telegram.me/newsonliner_bot"])
+onliner.by##.news-text > p[style="text-align: right;"]:has(> strong > a[href^="https://www.google.com/preferences/source?q="])
 onliner.by##.news-text > p[style]:has(> a[href="https://t.me/newsonliner_bot"])
 onliner.by##.news-text > p[style]:has(> strong > a[href="https://t.me/newsonliner_bot"])
 onliner.by##.news-text > p[style]:has(> strong:contains(/Наш канал в|Падпісвайцеся/))
@@ -42439,7 +42442,6 @@ perkinelmerinformatics.com##+js(remove-class, minddnd-wa-announcement-padding-to
 perkinelmerinformatics.com##.minddnd-wa-announcement-wrap:style(display: none !important;)
 perlego.com##div[aria-label="cookie banner"]
 perlego.com##div[data-testid="cookieBannerWrapper"]
-permira.com,cartetika.ru,imperialorchestra.ru,scan.com.ru,checkscan.ru,mondlicht-studios.de,re-books.ru,practicum.com,jush.pl##body .t972__banner
 perplexity.ai##+js(addEventListener-defuser, /^(?:wheel|touchmove)$/, /===.\)\{var .="deltaY"in .\?./)
 perplexity.ai##+js(addEventListener-defuser, /wheel|touchmove/, current.noIsolation)
 perplexity.ai##+js(set-cookie, pplx.mweb-splash-page-dismissed, true)
@@ -50073,6 +50075,7 @@ sony.de##section[id^="primary_tout_for_pdx_prospect"]
 sony.de,pokemontcgpocket.com#@##onetrust-consent-sdk
 sony.pl###primary_tout_for_pdx_prospect
 sony.pl#@##onetrust-consent-sdk
+sony.ua,sony.ru,priceless.com,gazzetta.it###_evh-ric
 sonyentertainmentnetwork.com,my.account.sony.com###js-SIEWS1lib-header
 sonyliv.com##+js(set-local-storage-item, analytics_cookies_acceptance, false)
 sonyliv.com##+js(set-local-storage-item, cookie_acceptance, true)
@@ -63556,6 +63559,7 @@ zzzz.lol#?#.widget-side .widget-title:has(+ div a[href^="/bbs/link.php?bo_table=
 ||d335luupugsy2.cloudfront.net^$domain=~btgpactual.com
 ||d3bo67muzbfgtl.cloudfront.net/edrone_2_0.js
 ||d3nv2arudvw7ln.cloudfront.net/staticfolder/Tyre/cookie-bar/$domain=pirelli.com
+||d3on3f7zdcfg.cloudfront.net/iab/
 ||d3otfkap419ijo.cloudfront.net/*/lib-components-newsletter-modal.js
 ||da.fanatical.com/products/$subdocument,domain=gamegrin.com
 ||da.namu.la^$domain=arca.live
