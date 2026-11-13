@@ -3638,6 +3638,7 @@ $script,redirect-rule=noop.js,domain=aternos.org
 21vek.by##body:style(overflow: auto !important;)
 21vek.by##div[class^="styles_agreementWrapper"]
 22.do##.detail-wrap > div.page-banner:has(> div.row a > img[src="/assets/images/mail/googleplay.png"])
+22places.de##+js(set-cookie, 22p_newsletter_dialog, 1)
 22st.net###googleTop
 23andme.com###js-gdpr-optin
 24.hu###stickyMobileNotification
@@ -7995,7 +7996,6 @@ aminoapps.com##.fixed_get_amino_app
 aminoapps.com##.recommend-app
 amiparis.com##body:style(overflow: auto !important;)
 amiparis.com##div[data-test="cookie-modal-wrapper-overlay"]:style(display: none !important;)
-amiunique.org,receivefreesms.net,track24.net,angielskieespresso.pl,op.gg,cameralabs.org##a[href^="https://play.google.com/store/apps/details?id="]
 ammerlaender-versicherung.de##.cookieModalBackdrop:style(display: none !important;)
 ammerlaender-versicherung.de#@##cookieAccept
 amnesty.cz###cookiesAgreement
@@ -30581,6 +30581,7 @@ katuru2ch.blog12.fc2.com##div[id^="more"] > p > b > a[href^="http://katuru.com/r
 katuru2ch.blog12.fc2.com##div[id^="more"] > p:has(> b > a[href^="http://katuru.com/rss/"])
 kaufbei.tv##.newsletter-fullwidth
 kaufda.de###bonial-cmp-container
+kaufendeintesla.de##.cookie-leiste
 kaufland.de,kaufland.pl##.m-cookie-notification
 kaup24.ee,gamer.hu###cookie_block
 kavkaz-uzel.eu##.articles-body_contents > p:contains(ИНОСТРАННЫМ АГЕНТОМ)
@@ -31646,7 +31647,6 @@ krotosaudio.com###krotos-cookie-consent
 krotosaudio.com#@##cookie-law-info-bar
 krotoski.com###elementor-popup-modal-64876
 krotoski.com###elementor-popup-modal-856
-krs-radar.pl,ceskatelevize.cz,softorino.com,oldversion.com,riot-optimizer.com,studiosus.com,getcarv.com,krakow.pl,wieliczka.eu,authgear.com,plantica.pl,bloodbornepc.wiki,transfr.me,learning.ua,anythingmcp.com,schweiker.pl,bazalt.pl,datawrapper.de,czernica.pl,vgwort.de,brasilnippou.com,medcom.com.pl,nothing.community,yourimageshare.com,app.socios.com,mking.pl,cointracker.com,cloro.dev,wasgehtapp.de,kuplio.pl,birdweather.com,frapol.com.pl,eceenerji.com.tr,brdmap.de,denebunu.com,mzyy94.com,eliveshop.de,tabstack.ai,myagd.pl,luxpoint.com.pl,denebunu.com,igs.net.tr,lulek.tv,wolverineworldwide.com,mindmarket.com,ipinfo.io,decormarket.pl,dekory24.pl,pysznekarmy.pl,booktime.pl,darwina.pl,carsystems.eu,ajtrade.pl,vivab2b.pl,ajsklep.pl,hurtowniamultistore.pl,giewontshop.com,lubieklocki.pl,naogrod.pl,elektrohome.pl,koszule-meskie.pl,visciolafashion.com,modaservis.pl,sklep.karolnienartowicz.com,slupskiemeble.pl,yokodesign.pl,ekobruk.pl,skleprzeznika.pl,seatpick.com,izapachy.pl,clinus.pl,voyah.ru,intracom.pl,1twente.nl,fimewc.com,yazio.com,futbalsfz.sk,bts.aero,online.gdu.com.tr,novotel.ba,iuc.edu.tr,comu.edu.tr,w3.sdu.edu.tr,belganewsagency.eu,kofteciyusuf.com,2te-zahnarztmeinung.de,elenianna.com,aspire.dev,formytesla.com,li.sten.to,sign.com,paulistacultural.com.br,wasdland.com,nemzetiarchivum.hu,wooting.io,erzeszow.pl,primepc.pl,steuer-beamte.de,kgm.ru,jetour-ru.com,foton-mbrus.ru,voyah.su,soueast.ru,toyota.ru,gac.ru,fastconvert.co,technologypresswirenetherlands.com,evolute.ru,prnewswire.com,roxybrowser.com,nucba.ac.jp,revenue.mt.gov,mcskincraft.com,makeforms.io,serfloor.com.tr,biletmio.com,lingscars.com,koi.ai,hackmd.io,multipolls.com,alinco.co.jp,niebieskizaulek.pl,nefisyemektarifleri.com,spark-die-klassische-band.de,bisiparis.com,toya.net.pl,mateobar.pl,whoisxmlapi.com,jagapizza.pl,tapasslupsk.com,ytlarge.com,financer.com.ua,trakt.tv,unipegaso.it,escortempire.*,videspratiba.lv,soleretriever.com,healf.com,gameship.io,xzone.pl,givesendgo.com,workstreams.ai,trae.ai,imusic.*,dobrydietetyk.pl,zeno.fm,ratujlaptopa.pl,chat.mistral.ai,subdomains.whoisxmlapi.com,derslig.com,bikeexchange.de,webtv.tv,cargiant.co.uk,r34.app,webtv.sk,rustdesk.com,praha.eu,bdm.pl,mobimatter.com,gl-inet.com,astrowarp.net,gamers-outlet.net,kinnisvara24.ee,costa-coffee.cz,sterbabike.cz,codesandbox.io,xzone.cz,dap.gov.hu,idomsoft.hu,uxpilot.ai,evaluar.com,home.s.id,skubacz.pl,restaumatic.com,any.run,rekinysukcesu.pl,nutrend.pl,app.any.run,financnihra.cz,kurczakiodeliasza.com,kontomaniak.pl,snowboard-online.pl,whitebit.com,nicelocal.com.de,ndsas.sk,trakt.tv,greptime.com,newsinslowfrench.com,happyscribe.com,saaq.gouv.qc.ca###cc-main
 krsk.au.ru##.au-go-to-app-modal
 krsystem.pl###cook_cover
 krsystem.pl##body > #cook
@@ -34842,7 +34842,7 @@ magzter.com##.cookies__notification
 mahitiplus.com,recruitmentaim.in##+js(adjust-setInterval, timer, *, 0.001)
 mahjong.co.uk##.adBlocked
 mahjong.co.uk##div[data-type="yad"]:style(visibility: hidden !important;)
-mahsunsports51.xyz,mahsunsports52.xyz,mahsunsports59.xyz##.floating-telegram
+mahsunsports51.xyz,mahsunsports52.xyz,mahsunsports60.xyz##.floating-telegram
 maidenhead-advertiser.co.uk###popuptest
 maidenhead-advertiser.co.uk,neoseeker.com##+js(no-setTimeout-if, .offsetHeight === 0)
 mail.com##+js(set-cookie, euconsent-bypass, 1)
@@ -37208,6 +37208,7 @@ mojebambino.pl##.baner
 mojeek.com##.llm-btn
 mojeek.com##.pop-in
 mojeekino.pl,incidenthub.cloud,prosv.ru,estoty.com,regiojethotels.com,regiojethotels.at,studentagency.cz,dovolena.cz,jazykovepobyty.cz,navigator-tmn.ru,my.nintendo.com##div[class^="Cookie"]
+mojeterminy.pl##section[aria-labelledby="cookie-banner-title"]
 mojkatalog.rs##body.no-scroll:style(overflow: auto !important;)
 mojkatalog.rs#@##onetrust-consent-sdk
 mojmaxtv.hrvatskitelekom.hr##nav > div[class*="styles__HeaderInfoBarStyled"]:has(a[href="https://www.hrvatskitelekom.hr/podrska/privatnost-podataka"])
@@ -46275,6 +46276,9 @@ road.cc##.full__sponsor-box
 road.cc##.info-subscription-box
 road.cc##.subscribe-pink-box
 roadtovr.com##.mpp-container-position-bottom-right > .mpp-popup[data-form-type="user-subscription"]
+roadtrip-planen.de##+js(set-local-storage-item, cookieConsent_adsense, denied)
+roadtrip-planen.de##+js(set-local-storage-item, cookieConsent_analytics, denied)
+roadtrip-planen.de##+js(set-local-storage-item, cookieConsent_set, true)
 roadway.yahoo.co.jp###rc_app
 roadway.yahoo.co.jp###rc_sns
 roadway.yahoo.co.jp##.banners > li > a[href^="https://app.adjust.com/"]
@@ -57339,6 +57343,7 @@ vidooly.com###elementor-popup-modal-21364
 vidup.io##.PushNotification
 vidz24.com##.partnier-top-nav
 vidz24.com##.right-advertising
+viel-unterwegs.de##div[aria-labelledby="einwilligung-titel"]
 viennalife.com.tr,richmondhotels.com.tr,beymen.com##.cookie-band
 viennaticketoffice.com##body > div[id][style="float:left"]
 viet-jo.com###notify-bottom
@@ -61120,6 +61125,8 @@ zn.ua##.content__news > .youtube-news
 zn.ua##.content__news > div.news-support
 zn.ua##.recent-events
 znaet.petrovich.ru,onedio.com,wildberries.ru##.modal--cookie
+znajda.org,amiunique.org,receivefreesms.net,track24.net,angielskieespresso.pl,op.gg,cameralabs.org##a[href^="https://play.google.com/store/apps/details?id="]
+znajda.org,krs-radar.pl,ceskatelevize.cz,softorino.com,oldversion.com,riot-optimizer.com,studiosus.com,getcarv.com,krakow.pl,wieliczka.eu,authgear.com,plantica.pl,bloodbornepc.wiki,transfr.me,learning.ua,anythingmcp.com,schweiker.pl,bazalt.pl,datawrapper.de,czernica.pl,vgwort.de,brasilnippou.com,medcom.com.pl,nothing.community,yourimageshare.com,app.socios.com,mking.pl,cointracker.com,cloro.dev,wasgehtapp.de,kuplio.pl,birdweather.com,frapol.com.pl,eceenerji.com.tr,brdmap.de,denebunu.com,mzyy94.com,eliveshop.de,tabstack.ai,myagd.pl,luxpoint.com.pl,denebunu.com,igs.net.tr,lulek.tv,wolverineworldwide.com,mindmarket.com,ipinfo.io,decormarket.pl,dekory24.pl,pysznekarmy.pl,booktime.pl,darwina.pl,carsystems.eu,ajtrade.pl,vivab2b.pl,ajsklep.pl,hurtowniamultistore.pl,giewontshop.com,lubieklocki.pl,naogrod.pl,elektrohome.pl,koszule-meskie.pl,visciolafashion.com,modaservis.pl,sklep.karolnienartowicz.com,slupskiemeble.pl,yokodesign.pl,ekobruk.pl,skleprzeznika.pl,seatpick.com,izapachy.pl,clinus.pl,voyah.ru,intracom.pl,1twente.nl,fimewc.com,yazio.com,futbalsfz.sk,bts.aero,online.gdu.com.tr,novotel.ba,iuc.edu.tr,comu.edu.tr,w3.sdu.edu.tr,belganewsagency.eu,kofteciyusuf.com,2te-zahnarztmeinung.de,elenianna.com,aspire.dev,formytesla.com,li.sten.to,sign.com,paulistacultural.com.br,wasdland.com,nemzetiarchivum.hu,wooting.io,erzeszow.pl,primepc.pl,steuer-beamte.de,kgm.ru,jetour-ru.com,foton-mbrus.ru,voyah.su,soueast.ru,toyota.ru,gac.ru,fastconvert.co,technologypresswirenetherlands.com,evolute.ru,prnewswire.com,roxybrowser.com,nucba.ac.jp,revenue.mt.gov,mcskincraft.com,makeforms.io,serfloor.com.tr,biletmio.com,lingscars.com,koi.ai,hackmd.io,multipolls.com,alinco.co.jp,niebieskizaulek.pl,nefisyemektarifleri.com,spark-die-klassische-band.de,bisiparis.com,toya.net.pl,mateobar.pl,whoisxmlapi.com,jagapizza.pl,tapasslupsk.com,ytlarge.com,financer.com.ua,trakt.tv,unipegaso.it,escortempire.*,videspratiba.lv,soleretriever.com,healf.com,gameship.io,xzone.pl,givesendgo.com,workstreams.ai,trae.ai,imusic.*,dobrydietetyk.pl,zeno.fm,ratujlaptopa.pl,chat.mistral.ai,subdomains.whoisxmlapi.com,derslig.com,bikeexchange.de,webtv.tv,cargiant.co.uk,r34.app,webtv.sk,rustdesk.com,praha.eu,bdm.pl,mobimatter.com,gl-inet.com,astrowarp.net,gamers-outlet.net,kinnisvara24.ee,costa-coffee.cz,sterbabike.cz,codesandbox.io,xzone.cz,dap.gov.hu,idomsoft.hu,uxpilot.ai,evaluar.com,home.s.id,skubacz.pl,restaumatic.com,any.run,rekinysukcesu.pl,nutrend.pl,app.any.run,financnihra.cz,kurczakiodeliasza.com,kontomaniak.pl,snowboard-online.pl,whitebit.com,nicelocal.com.de,ndsas.sk,trakt.tv,greptime.com,newsinslowfrench.com,happyscribe.com,saaq.gouv.qc.ca###cc-main
 znak.com##.y-links
 znak.com##body:not(.mobile) header:style(margin-top: 20px!important;)
 znak.com##form[data-type="maillist_main"]
