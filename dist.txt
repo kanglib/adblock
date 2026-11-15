@@ -13753,7 +13753,7 @@ catawiki.de##footer > div[data-react-component-assets="CookiesBar"]:style(displa
 catchsecu.com###wpfront-notification-bar-spacer
 catchsecu.com,genuineactivator.com,lapandilladelarejilla.es##head > style:contains(.unselectable):remove()
 catchsecu.com,geometra.me,krynka.pl,platformaofd.ru,ifp.org.pl,sareurope.eu,zeuss-saxony.de,hullfcfoundation.co.uk,visionmechanics.org,tx3.tech,wwlopportunities.co.uk,garo-shop.com,toyox.co.jp,system-exe.co.jp,mediahero.pl,goodstory.jp,product.minebeamitsumi.com,kore.ai,qr.cadininevi.com.tr,aili.com.ua,tvq.co.jp,clinicaleducation.org,fitcake.pl,se7en.ws,luckypatchers.com,techwatch.de,omnioxy.com,themuslimvibe.com,idebil.com##.l-cookie
-catchsecu.com,joqr.co.jp,rawotaku.com,ww1.jmanga.cloud,hqq.to,hentaitk.net,dinvemitoloji.com,teachios.com,hulu.jp,filmzone.com,interface31.ru,ktv.jp,releasewitch.com,news.ntv.co.jp,novatoscans.top,flying-lines.com,fssp.gov.ru,ilife97.com,rdsong.com,lubedk.com,itempage3.auction.co.kr,cdramalove.com,10000recipe.com,nike.com,a2zapk.dev,fully-fundedscholarships.com,shoneekapoor.com,cda-hd.cc,bufftoon.plaync.com,studyguideindia.com,codedosa.com,newslibrary.naver.com,insight.co.kr,gamefinity.id,cafe.naver.com##+js(set-constant, document.oncontextmenu, null)
+catchsecu.com,joqr.co.jp,rawotaku.com,jmanga.party,hqq.to,hentaitk.net,dinvemitoloji.com,teachios.com,hulu.jp,filmzone.com,interface31.ru,ktv.jp,releasewitch.com,news.ntv.co.jp,novatoscans.top,flying-lines.com,fssp.gov.ru,ilife97.com,rdsong.com,lubedk.com,itempage3.auction.co.kr,cdramalove.com,10000recipe.com,nike.com,a2zapk.dev,fully-fundedscholarships.com,shoneekapoor.com,cda-hd.cc,bufftoon.plaync.com,studyguideindia.com,codedosa.com,newslibrary.naver.com,insight.co.kr,gamefinity.id,cafe.naver.com##+js(set-constant, document.oncontextmenu, null)
 catchsecu.com,vernamagazine.com,releasewitch.com,programasvirtualespc.net,legionscans.com,a2zapk.dev,flinsetyadi.com,theaircurrent.com,fully-fundedscholarships.com,now.rememberapp.co.kr,codedosa.com,gradium.co.kr,semesters.in##+js(set-constant, disableEnterKey, noopFunc)
 catcut.net##+js(adjust-setTimeout, go_url, 15000, 0.3)
 category.gmarket.co.kr##.cate-search-result > #plusItem
@@ -19011,6 +19011,8 @@ economia.uol.com.br##+js(addEventListener-defuser, copy, event.dispatch.apply)
 economia.uol.com.br##.campaign-container
 economia.uol.com.br##.uol-campaign-image
 economictimes.com##div[data-name="art-details"] > div[class^="_"]:has(> a[href^="https://whatsapp.com/channel/"])
+economictimes.com,eisamay.com,samayam.com,indiatimes.com##.notification_popup
+economictimes.com,orangepage.net###google-preferred-source
 economictimes.indiatimes.com###_l2_id_1.sticky-rgt-btm
 economictimes.indiatimes.com###budgetBtmBaner
 economictimes.indiatimes.com###exitIntent
@@ -19309,7 +19311,6 @@ einthusan.tv###social-wrapper
 einthusan.tv###social-wrapper:style(position: absolute!important; left: -3000px!important;)
 einvestidor.estadao.com.br###push-notification-prompt-container
 eisamay.com,maharashtratimes.com,navbharattimes.indiatimes.com##.wdt_newsLetter
-eisamay.com,samayam.com,indiatimes.com##.notification_popup
 eitca.org##.lwp-cmp:style(display: none !important;)
 eitca.org##.lwp-cmp__cover:style(display: none !important;)
 eitca.org##body.lwp-cmp-scroll-lock:style(overflow: auto !important; position: static !important;)
@@ -26128,7 +26129,6 @@ half-musiq.blogspot.com,studyguideindia.com##+js(set-constant, document.onmoused
 halftime-media.com##.user-registration-modal
 halkbank.com.tr###cookieCT
 halktv.com.tr##.rel-link
-halktv.com.tr,celebtattler.com,navbharattimes.indiatimes.com##.google-follow
 halktv.com.tr,haber.doviz.com##.follow-google-news
 hallebessermachen.de###wdw-cookie-consent:style(display: none !important;)
 hallebessermachen.de##+js(remove-class, v--modal-block-scroll, body.v--modal-block-scroll)
@@ -27659,6 +27659,7 @@ iairgroup.com###_cookieConsentWrapper
 iamexpat.nl##.form--subscribe-page
 iamgujarat.com,eisamay.com,samayam.com,vijaykarnataka.com,indiatimes.com##.source_sharing > div[class="only-web"]
 iamgujarat.com,eisamay.com,samayam.com,vijaykarnataka.com,indiatimes.com,eisamay.com,maharashtratimes.com,navbharattimes.indiatimes.com##.top-header-gdpr
+iamgujarat.com,vijaykarnataka.com,maharashtratimes.com,samayam.com,indiatimes.com###app_floating_btn
 iamhereshop.com###mobile-wrap
 iampm.club,sozcukitabevi.com##.banner_cookie
 iamroadsmart.com,rgfstaffing.com,spie.de##body #tracking-consent-dialog
@@ -28024,7 +28025,6 @@ ikorektor.pl##+js(no-setTimeout-if, reklamy)
 ikp.uw.edu.pl##.mszcookies
 iksmedia.ru##.descl
 ikstudie.com,sunloft.co.jp##.Bnr
-iksync.com,daabonorganic.com,frozenway.games,gbi.llc,dilbert.com,balifactoryoutlet.com.au,rinna.co.jp,mydoggieboosters.com,nikhilbharatshikshaparisad.in,7818448870.com,ai-aitech.co.uk,419.consulting,europeanresolverpolicy.com##.widget-cookie-banner
 ikus.pesc.ru##mobile-apps-view
 ikuzi2p.livedoor.blog##.plugin-memo:has(> div.side > p > a > img[alt="RSS_PICT"])
 ilacfiyati.com##.right_bottom_fixed
@@ -28377,6 +28377,10 @@ indiatimes.com##a[href="https://whatsapp.com/channel/0029Va4oehLBVJlCF2kmgd0L"]
 indiatimes.com##a[href^="https://timesofindia.onelink.me"]
 indiatimes.com##body .adBanner:style(display: block!important;)
 indiatimes.com##div[class^="ntfc_"]
+indiatimes.com,maharashtratimes.com##.topNotification
+indiatimes.com,samayam.com,vijaykarnataka.com,maharashtratimes.com###google-preferred-source-strip
+indiatimes.com,vijaykarnataka.com,iamgujarat.com,maharashtratimes.com,samayam.com##.web_social > .yt-iframe
+indiatimes.com,vijaykarnataka.com,iamgujarat.com,maharashtratimes.com,samayam.com,halktv.com.tr,celebtattler.com##.google-follow
 indiatoday.in###tapBoxId
 indiatoday.in##+js(abort-on-property-read, notifyMe)
 indiatoday.in##.ai_assist_logo
@@ -34855,6 +34859,7 @@ magokoro-care-shoku.com##.popup_outer:style(display : none !important;)
 magokoro-care-shoku.com##html.popup_hide:style(overflow: auto !important;)
 magyarnemzet.hu##.gdprBoxContainer
 magzter.com##.cookies__notification
+maharashtratimes.com##.news-app
 mahitiplus.com,recruitmentaim.in##+js(adjust-setInterval, timer, *, 0.001)
 mahjong.co.uk##.adBlocked
 mahjong.co.uk##div[data-type="yad"]:style(visibility: hidden !important;)
@@ -38224,6 +38229,7 @@ myoji-kamon.net,myoji-yurai.net###app_ad
 myoji-yurai.net##a[href="https://play.google.com/store/apps/details?id=net.myoji_yurai.myojiOmikuji"]:upward(1)
 myoji-yurai.net##div[style^="width:280px;margin:"]
 myoji.jitenon.jp##.side_shop_bnr
+myospots-int.com,iksync.com,daabonorganic.com,frozenway.games,gbi.llc,dilbert.com,balifactoryoutlet.com.au,rinna.co.jp,mydoggieboosters.com,nikhilbharatshikshaparisad.in,7818448870.com,ai-aitech.co.uk,419.consulting,europeanresolverpolicy.com##.widget-cookie-banner
 myoutdoortv.com###privacy_terms_cookies
 myownconference.com##+js(set-cookie, cookie_consent, rejected)
 mypage.mag2.com##.content-wrapper > div.fixed-box
@@ -38561,7 +38567,6 @@ navbharattimes.indiatimes.com###timespoint-popup
 navbharattimes.indiatimes.com##.app_donwload
 navbharattimes.indiatimes.com##.gdpr-cookiebanner
 navbharattimes.indiatimes.com##.side-overlay
-navbharattimes.indiatimes.com##.web_social > .yt-iframe
 navcargo.com.br###body-modal
 navcomic.com##body > div#document-header > aside.widget.widget_text
 naver.com##[aria-label="웨일 브라우저 설치 안내"]
@@ -41371,7 +41376,6 @@ oralb.de##.ob-interstitial-popup-modal
 orange.es##html:style(overflow: visible !important;)
 orange.fr##.o-cookie-consent
 orange.pl##.snrs-container-webpush
-orangepage.net###google-preferred-source
 orangespotlight.com##+js(remove-attr, data-protect, body[data-protect])
 orbi.kr##.oxad
 orbi.kr##a[href^="https://ads.orbi.kr/"]
@@ -47001,7 +47005,6 @@ sama-pro.com,7misr4day.com##+js(adjust-setInterval, downloadTimer, , 0.02)
 samapkstore.com##+js(adjust-setInterval, #countdown, , 0.02)
 samapkstore.com##+js(adjust-setInterval, progressbar, 30, 0.02)
 samaria.co.jp,minitab.com##.cookie-toaster
-samayam.com,navbharattimes.indiatimes.com###app_floating_btn
 samayam.com,navbharattimes.indiatimes.com##.top-stories-modal
 samayam.com,navbharattimes.indiatimes.com##.topStorieswrap
 samedi.de##.cookieslider
