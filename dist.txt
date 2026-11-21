@@ -6643,6 +6643,7 @@ aaieba.livedoor.biz##div[style^="BORDER: #FEEED9 1px solid; margin: 3px 0px 3px 
 aajtak.in##.aapsection
 aajtak.in##.darkmode-coachmark:style(display: none !important;)
 aajtak.in##.tapBoxCls
+aajtak.in##.whatsAppChannel
 aajtak.in##body:style(overflow: visible !important;)
 aajtak.in##div[class^="editorial-banner"]
 aajtak.in,businesstoday.in##.bottomSliderSwipe
@@ -9493,6 +9494,7 @@ augsburger-allgemeine.de##.aa-swatch-topdown-nice > form[action*="ajax_nl-subscr
 augsburger-allgemeine.de##.aside > div[style^="width:300px; overflow:hidden; text-align:right; border: 1px solid"]:not([class]):not([id])
 augsburger-allgemeine.de##.b-footer-cookie--up
 augustinus.de###rsseo-cookie-accept
+augustnews.ru,civey.com##div[aria-live="polite"]
 aukey.com,bikopek.com##.fixed-cookie
 aulafacil.com##.faldon-cookies
 aulagear.com,bmz.de##.m-cookie-banner
@@ -13176,7 +13178,7 @@ businesstoday.in##.daily_news_letter
 businesstoday.in##.home_page_trusted_source
 businesstoday.in##.sidebar > div.common-rhs-main-sec.loop5
 businesstoday.in##.what
-businesstoday.in##.whatsapp_channel
+businesstoday.in##a[data-href^="https://profile.google.com/cp/"]
 businesstoday.in##div[id^="magazine_subscribe"]
 businesstoday.in##iframe[name="notification-frame-b8a5475a"]
 businesstoday.in,aajtak.in##.daily-news-letter
@@ -14522,7 +14524,6 @@ citytraffic.ru###notefication.modalDialog
 citywire.co.uk##.alert-registration
 ciudad.com.ar##.content-footer
 civetta.tv###ecl-notice
-civey.com##div[aria-live="polite"]
 civicx.com##+js(set-constant, Object.prototype.rellect_adblock_detector, false)
 civicx.com##.adblock_detector
 civil.ge,perlenvombodensee.de,courseforfree.com,modelist-konstruktor.com,smopo.ch##.widget_newsletterwidgetminimal
@@ -24474,6 +24475,10 @@ gnavi.co.jp##.hatena-module-body .hatena-fotolife[alt][width]
 gnavi.co.jp##.p-appli
 gnavi.co.jp##.under-pager-edit-area a[href^="https://play.google.com/store"]
 gnn.pl##.marketing-notice
+gnttv.com##.whatsappshare
+gnttv.com,aajtak.in##.g_news
+gnttv.com,aajtak.in##.googlePreferred
+gnttv.com,aajtak.in##.googleShareOverlay
 gnu.kilho.net##div[id^="detect"]
 gnu.org###fundraiser
 gnula.la##.bottom-4.fixed:has(> .flex > img[alt="Cookie"])
@@ -24576,7 +24581,9 @@ gogov.ru##.main-post-meta > div[style="display:flex; align-items:center;"]
 gogov.ru##.main-post-subscribe
 gogov.ru##.tg-share
 goguynet.jp###async-ad_line2
+goguynet.jp##.mamorioh-amazon-ideas
 goguynet.jp##.preferred-source-button
+goguynet.jp##div.rightBlock .sideBox01 > p.sideInfo
 gohatori.com##+js(abort-current-script, setTimeout, none)
 gohatori.com,pr-cy.ru,pr-cy.io#@##adframe:not(frameset)
 goimports.com.br###btnwhatsapp
@@ -28456,6 +28463,7 @@ indiatimes.com,vijaykarnataka.com,iamgujarat.com,maharashtratimes.com,samayam.co
 indiatimes.com,vijaykarnataka.com,iamgujarat.com,maharashtratimes.com,samayam.com,halktv.com.tr,celebtattler.com##.google-follow
 indiatoday.in###tapBoxId
 indiatoday.in##+js(abort-on-property-read, notifyMe)
+indiatoday.in##.add-preferred-source
 indiatoday.in##.ai_assist_logo
 indiatoday.in##.ai_assist_logo:has(> div.prefer-us-link)
 indiatoday.in##.downloadapp__section
@@ -29694,7 +29702,6 @@ jagran.com##.rhs-Banner
 jagran.com##div[class^="AdFreeBottomLoginModal_"]
 jagranjosh.com##.edu-award
 jagranjosh.com##.subscribe-sec
-jagranjosh.com,jagran.com,herzindagi.com,newsnation.in###gdprbx
 jaguar.ru,jaguar.com##.notificationBars
 jahnupartner.de##body:style(filter: none !important; pointer-events: auto !important;)
 jakbudowac.pl##.exit-popup
@@ -31148,6 +31155,7 @@ kisadalga.net##.mail-list-wide
 kisadalga.net##.tp-newsletter
 kisadalga.net##.tp-patreon
 kisalt.xyz##+js(set-constant, count, 0)
+kisantak.in,gnttv.com,businesstoday.in##.whatsapp_channel
 kispest.hu##.cookieacceptdiv
 kissanadu.com##.member-register
 kissanime.com.ru,kissanime.*,kisscartoon.*,xmovies8.*###upgrade_pop
@@ -35399,6 +35407,8 @@ maquia.hpplus.jp##.firework-tag-articles
 maquia.hpplus.jp##.section-fireworkTag
 marasoku.info##.rss_ninja_title
 marasoku.info##iframe[src^="http://marasoku.info/rss_"]
+marathijagran.com##div[class^="notification_subscribeFrame"]
+marathijagran.com,jagranjosh.com,jagran.com,herzindagi.com,newsnation.in###gdprbx
 marbosport.de,basiclab.shop,fritz-shop.eu,upleder.de##.iai_cookie:style(display: none !important;)
 marbosport.de,basiclab.shop,fritz-shop.eu,upleder.de##body.--cookie-overflow:style(overflow: auto !important;)
 marc-o-polo.com##+js(set-cookie, accepted-cookie-consent-version, 1)
@@ -39551,6 +39561,8 @@ newsru.co.il##article > a[href="https://t.me/s/NEWSruIsrael"]
 newssky.com.ua##.bb1
 newssky.com.ua##.boxxx
 newssky.com.ua##.single-content > h4
+newstak.in##a[href="https://intdy.in/nwpref"]
+newstak.in##g[id="Social Media / Whatsapp"]
 newstatesman.com##.newsletter-inner-container
 newsthump.com,westernstandardonline.com##.widget_mailchimpsf_widget
 newstomato.com##.rn_container div[style^="text-align:"][style*="margin-top:"]
@@ -41653,8 +41665,6 @@ otak.com.ua#@##cookies-modal
 otakotaku.com###nav:style(top: 0 !important;)
 otakotaku.com###top_fixed_android:style(display: none !important;)
 otakotaku.com##body:style(padding-top: 70px !important;)
-otaku.goguynet.jp##.mamorioh-amazon-ideas
-otaku.goguynet.jp##div.rightBlock .sideBox01 > p.sideInfo
 otakufilmes.org###lite-single-sora-button:style(display: unset !important;)
 otakufilmes.org###lite-single-sora-wait:style(display: none !important;)
 otakufilmes.org##+js(adjust-setTimeout, Counter, *, 0.001)
@@ -42865,6 +42875,7 @@ pianistmagazine.com##+js(no-setTimeout-if, initialisePopupModal)
 pianistmagazine.com##.post-body a[href^="https://www.pianistmagazine.com/account/register/?ref="] > img
 pianorooms.ru##.yButton
 pianoweb.fr##a[class="fleche-basdepage"] ~ a[class^="logo-"]
+pib.gov.in###pibConsentBanner
 pic5you.ru###bb
 piccalil.li##.the-index-promo
 piccoma.com###js_transitionToAppBtn
@@ -53902,6 +53913,8 @@ thekrazycouponlady.com##.desktop-cta-container
 thekrazycouponlady.com##.mobile-cta-container
 thekrazycouponlady.com##.sms-call-to-action-container
 thelabyrinth.co.kr##+js(no-fetch-if, pagead2.googlesyndication.com method:HEAD)
+thelallantop.com##a[href="https://intdy.in/ltind"]
+thelallantop.com##div[class^="desktop-newsletter_banner_wrapper"]
 theland.com.au##.advertisements-blocked
 thelawpages.com###terms
 theleaflet.in###popup1
@@ -56802,6 +56815,7 @@ upstage.ai,app.gigsky.com,mozemo.hr,cashify.eu,plurall.net,runna.com,vseti.app,i
 upstore.net##+js(adjust-setInterval, countDown, 1150, 0.5)
 upstract.com###vipgrade
 upstreamonline.com##.dn-promobox
+uptak.in##a[href=" https://intdy.in/uppref"]
 upthinkisgood.com##.entry-content > div[align="center"] > .box-outer:has(> .box-inner > #mc_embed_signup)
 uptime.com###receive-alerts-modal-partial:style(display: none!important;)
 uptime.com##.modal-backdrop:style(display: none!important;)
@@ -59091,6 +59105,8 @@ whispersinthecorridors.com##.media > .space
 whispersinthecorridors.com##.modal-backdrop:style(display: none!important;)
 whispersinthecorridors.com##body > div.modal:style(display: none!important;)
 whispersinthecorridors.com##body:style(overflow: visible!important;)
+whispersinthecorridors.in##.wh-cta-newsletter
+whispersinthecorridors.in##.wh-footer-grid > div:not([id]):not([class]):has(> form.wh-footer-newsletter-form + p)
 whistleout.com.au##div[data-subscribe]
 white-pages.gr###news-line
 white-pages.gr###sidebar > h2[style^="margin-bottom:"]:contains(Android)
