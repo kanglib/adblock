@@ -61154,7 +61154,6 @@ zedge.net##.column.grid_12.leader
 zedge.net##.column.trailer.leader
 zeebiz.com##.cookieScreenOverlay
 zeebiz.com##.googleTrustedContainer-mid
-zeebiz.com,wionews.com,zeenews.india.com###cookiepolicy-wrap
 zeefiles.download##+js(adjust-setTimeout, tick, 1000, 0.02)
 zeekrlife.com##.zk-drawer-bottom
 zeelool.com###header > div.flex:not([id]):has(> button[aria-label="Download APP"])
@@ -61164,6 +61163,8 @@ zeelool.com##.quick-coupon-righticon-area
 zeelool.com##.tel-app
 zeelool.com##.v-modal:style(display: none !important;)
 zeenews-india-com.cdn.ampproject.org##.co-container#warning-message
+zeenews.com,zee24taas.com##div[class^="GoogleCTAnew-module"]
+zeenews.com,zee24taas.com,zeebiz.com,wionews.com,zeenews.india.com###cookiepolicy-wrap
 zeenews.india.com###googleCTA
 zeenews.india.com###livebtbox
 zeenews.india.com##.appdownloadbanner
