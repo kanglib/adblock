@@ -2575,6 +2575,8 @@ $script,redirect-rule=noop.js,domain=aternos.org
 /^https:\/\/cdn\.xtoon[0-9]+\.com\/collaboration\//$domain=/xtoon[0-9]+\.com/
 /^https:\/\/dbr\.donga\.com\/upload_dir\/source\/.+\([0-9]+x[0-9]+\)\./$domain=donga.com
 /^https:\/\/dc\.filesbest\.xyz\/uploadfile\/images\/[a-z0-9]+\.gif$/
+/^https:\/\/diksds\.speedwebgo\.com\/[0-9]+\/[0-9]+\/[0-9]+\.gif/$domain=/blacktoon[0-9]+\.com/
+/^https:\/\/diksds\.speedwebgo\.com\/[0-9]+\/[0-9]+\/[0-9]+\/[0-9]+\.gif/$domain=/blacktoon[0-9]+\.com/
 /^https:\/\/evape\.kr\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./$domain=evape.kr
 /^https:\/\/evape\.kr\/data\/file[0-9]+\/client\//$domain=evape.kr
 /^https:\/\/frtoon[0-9]+\.com\/data\/by_banner\//
@@ -3616,7 +3618,6 @@ $script,redirect-rule=noop.js,domain=aternos.org
 1tv.ru##.itv-push-suggest
 1tv.ru##.player > div[class*="eump-minimized"]
 1tv.ru##.title__social__link
-1und1.net,sheffdocfest.com,cetmen.com.tr,polymtl.ca,oxfam.org,efka.gov.gr,c-budejovice.cz,veolia.de,iyihisset.com,amerika21.de,museicapitolini.org,developer.nvidia.com,zillya.com,inrim.it,jneurosci.org,medrxiv.org,novartis.com.tr,royal.uk,transcom.com,netcologne.de,belltower.news,bigfm.de,click.ro,demokrata.hu,emma.de,gysev.hu,humanite.fr,ikgastarten.nl,london.gov.uk,mavcsoport.hu,mcdonalds.at,mcdonalds.it,mises.org,mnm.hu,musescore.com,nbcsports.com,pnas.org###sliding-popup
 1v9.gg,humboldtforum.org##+js(set-cookie, acceptCookie, true)
 1voice.gr##.footer-widgets
 1voice.gr,odishabytes.com,campaigntr.com,derstarih.com,justnerd.it##.more-stories
@@ -9534,6 +9535,7 @@ auth.gmx.net##a[href^="https://connect.gmx.net/entry?"] > picture
 auth.gmx.net##div:has(> a[href^="https://connect.gmx.net/entry?"] > picture):style(justify-content: center !important;)
 auth.hbomax.com##.dialog-transition-enter-done:has(> div[data-testid="consent-modal-dialog"])
 auth.opera.com##.modal-type-cookie-consent
+authaction.com,sundaybiblereadings.com,unlistedhub.com,solidbackup.net,whois.whoisxmlapi.com,easyway.ua,rescana.com,gamebook.pl,hessian.sh,walconmarine.com,carbongap.org,vaultimate.net,onebrand.company,artemislifemedicine.com,crusade.com.sg,nexusacademyuk.com,ampravda.ru,myownconference.com,amibeingpwned.com,paysend.com,formbyeats.co.uk,code.market,propelmusic.co.nz,lagless.gg,sotellus.com,abetterrouteplanner.com,eyou.social,getedumail.com,digiparser.com,gemini.com##div[aria-label="Cookie consent"]
 authense.jp##.article-contactBox
 authense.jp##.pcnon
 authense.jp##.spnon
@@ -20278,6 +20280,7 @@ esquire.com,cosmopolitan.com,delish.com,goodhousekeeping.com,menshealth.com,road
 esquire.com,cosmopolitan.com,womenshealthmag.com###recommended-modal
 esquire.com,ellegirl.jp,womenshealthmag.com##.regist-mail-wrap
 essential.com###footerNotice
+essentiallysports.com##.brand-share-article-section_container__8e0V8
 esslinger-zeitung.de##.nfy-ar-detail > footer > .nachrichtendienst-outer
 esslinger-zeitung.de##.nfy-searea > .rf-servicebox-html_content
 esso.de##.dismiss_cookies
@@ -25949,7 +25952,6 @@ guide.michelin.com##.js-cookie__popup
 guide.pubg.com##.cookie-policy__wrapper
 guideautoweb.com##.notification[data-nots-uid="gdpr-guideauto"]
 guideautoweb.com##div[data-nots-uid="gdpr-carguide"]
-guideautoweb.com,backyardchickens.com,legami.com,comedien.ch###newsletter-popup
 guideautoweb.com,reichelt.de###sidebar-newsletter
 guidecomp.ru##.widget_subscribe_and_social
 guided.news#@#.ad-250
@@ -26233,6 +26235,7 @@ halmstad.se##.sv-cookie-consent-modal:style(display: none !important;)
 halmstad.se##body:style(overflow: auto !important; position: unset !important;)
 halodoctor.pl,medfile.pl##.ck
 haloursynow.pl##div[aria-labelledby="myModalLabel"][style="display: block; padding-right: 17px;"]
+hamal.co.il##div[aria-label="הודעה על שימוש בעוגיות"]
 hamamatsu.com##+js(remove-class, State--CountrySelectorModal, html)
 hamamatsu.com##.mfp-bg:style(display: none !important;)
 hamamatsu.com##.mfp-wrap:style(display: none !important;)
@@ -27734,6 +27737,7 @@ i.factor.ua##body.access:style(overflow: auto !important; position: static !impo
 i.factor.ua##div[data-art-scroll="element"]
 i.mi.com##div[class^="order-"][class*="policy-"]
 i.ua##.alarm
+i24news.co.il##.i24-live-player
 i24news.tv##div[class^="GoogleNewsBanner_banner"]
 i24news.tv,zara.com##.native-app-banner
 i2chmeijin.com##.Box
@@ -35965,6 +35969,7 @@ mediafire.com##.MFUltra > div.MFUltra-content:has(> div.UltraPlan-options)
 mediafire.com##.lifetime-promo:remove()
 mediafire.com##.nonDLContentWrap:style(min-height: 1300px !important;)
 mediaguru.cz##form[data-controller="newsletter"]
+mediaite.com##.c-onesheet-module
 mediaite.com##.jw-adthrive-wrap > .o-jw-sub-promo
 mediajeju.com##aside > article ~ div[style*="height:"]
 mediakrytyk.pl##.privacy_policy_section
@@ -39260,6 +39265,8 @@ news.day.az##.join-channels-wrapper
 news.de###nllayer-container
 news.de##.cleverpush-email-form
 news.de##section:has(> #newsletterFormBox:last-child)
+news.delta.com,1und1.net,sheffdocfest.com,cetmen.com.tr,polymtl.ca,oxfam.org,efka.gov.gr,c-budejovice.cz,veolia.de,iyihisset.com,amerika21.de,museicapitolini.org,developer.nvidia.com,zillya.com,inrim.it,jneurosci.org,medrxiv.org,novartis.com.tr,royal.uk,transcom.com,netcologne.de,belltower.news,bigfm.de,click.ro,demokrata.hu,emma.de,gysev.hu,humanite.fr,ikgastarten.nl,london.gov.uk,mavcsoport.hu,mcdonalds.at,mcdonalds.it,mises.org,mnm.hu,musescore.com,nbcsports.com,pnas.org###sliding-popup
+news.delta.com,guideautoweb.com,backyardchickens.com,legami.com,comedien.ch###newsletter-popup
 news.denfaminicogamer.jp###dfng-banner
 news.denfaminicogamer.jp###dfng-popup
 news.detik.com##.multi-card > p:has(> strong:contains(Saksikan Live DetikSore :))
@@ -39891,6 +39898,8 @@ nimaso.co.jp##body > div[id^="shopify-aura-connect-"]
 nimbusweb.me##.blog-hero__subscribe
 nine.com.au##main > div[class]:has(> h3 > a[href*="newsletter=true"])
 ning.com###banner_top_cookie
+ninjaone.com###exit-popup
+ninjaone.com###qualified-multimodal-host
 nintendo.at,nintendo.be,nintendo.ch,nintendo.co.uk,nintendo.co.za,nintendo.de,nintendo.es,nintendo.fr,nintendo.it,nintendo.nl,nintendo.pt,nintendo.ru###cookie-topbar
 nintendo.co.uk,nintendo.de,nintendo.ch,nintendo.at,nintendo.fr,nintendo.be,nintendo.ch,nintendo.es,nintendo.nl,nintendo.be,nintendo.it,nintendo.ch,nintendo.ru,nintendo.co.za,nintendo.pt##[overlay-trigger="cookie"]:style(display: none !important;)
 nintendo.co.uk,nintendo.de,nintendo.ch,nintendo.at,nintendo.fr,nintendo.be,nintendo.ch,nintendo.es,nintendo.nl,nintendo.be,nintendo.it,nintendo.ch,nintendo.ru,nintendo.co.za,nintendo.pt##body:style(overflow: visible!important;)
@@ -49869,6 +49878,7 @@ smallbiztrends.com##.smb-subscribe-widget
 smallpdf.com###app > div[class]:has(> div[class] > div[class] > span > span > a[href="/privacy"])
 smallpdf.com###app > div[class^="sc-"] + div:has(img[alt="survey illustration"])
 smallpdf.com##body > div#app > div[class]:has(> div > div > img[alt="Chrome"])
+smallpdf.com##section div[class*="-0"]:not([class^="sc-"]):has(g[id="24/facebook-bw-24"])
 smallseotools.com###FITS_con
 smallseotools.com###ads_free_button
 smallseotools.com##.app_link_box
@@ -51833,7 +51843,6 @@ sunandsnow.pl#@#.cookies-modal
 suncalc.org##div[id^="ads"] > p
 suncorp.com.au##+js(set-cookie, key-event-suncorp-data-policy-closeFlag, 1)
 sunday-webry.com##.app-read-content
-sundaybiblereadings.com,unlistedhub.com,solidbackup.net,whois.whoisxmlapi.com,easyway.ua,rescana.com,gamebook.pl,hessian.sh,walconmarine.com,carbongap.org,vaultimate.net,onebrand.company,artemislifemedicine.com,crusade.com.sg,nexusacademyuk.com,ampravda.ru,myownconference.com,amibeingpwned.com,paysend.com,formbyeats.co.uk,code.market,propelmusic.co.nz,lagless.gg,sotellus.com,abetterrouteplanner.com,eyou.social,getedumail.com,digiparser.com,gemini.com##div[aria-label="Cookie consent"]
 sundayjournalusa.com##div[style] > a[href][target="_blank"]
 sundaymatome2channel.blog.fc2.com###header-rss-wrap
 sundaynewsusa.com#$#.td-is-sticky > .wpb_wrapper { top: 0px !important; }
@@ -55356,6 +55365,7 @@ tradersunion.com##+js(remove-class, cookie-not-accepted, body)
 tradersunion.com##body:style(overflow: auto !important;)
 tradersunion.com##div[id$="-popup"]:style(display: none !important;)
 tradingview.com##+js(prevent-fetch, doubleclick.net)
+tradingview.com##+js(set-local-storage-item, tradingview.black_friday.show_popup_2026, true)
 tradingview.com##div[class^="js-container-"][class$="-notification"]
 tradingview.com##div[data-role="toast-container"]
 traditionalcookingschool.com##.cp-widget[data-title="Sidebar: TCS Newsletter"]
@@ -56079,6 +56089,7 @@ tv.yahoo.co.jp###prm_Modal
 tv.yandex.*##+js(abort-on-property-read, Object.prototype.renderDirect)
 tv.yandex.*##+js(json-prune, rtb)
 tv.yandex.*##.recommended-ott
+tv10.co.il##section[aria-label="הסכמה לשימוש בעוגיות"]
 tv100.com##.bottom-video
 tv100.com##.widget-partnership
 tv2.dk##.CookieWarning_container__Pjx-P
@@ -65250,6 +65261,7 @@ zzzz.lol#?#.widget-side .widget-title:has(+ div a[href^="/bbs/link.php?bo_table=
 ||i2.esmas.com/wp/assets/js/adblock/kw-pqr.min.js
 ||i2.kidstaff.com.ua/info-1-5.js
 ||i2.sinaimg.cn/*/searchCallup.js$domain=gu.sina.cn
+||i24news.co.il/_astro/CookieConsentBanner.*.js
 ||i38.ru/templates/teleinform/js/cprgt.js
 ||i4k.xyz^$all
 ||iad-*.braze.com^
