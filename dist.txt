@@ -9503,6 +9503,9 @@ augsburger-allgemeine.de##.b-footer-cookie--up
 augustinus.de###rsseo-cookie-accept
 augustnews.ru,civey.com##div[aria-live="polite"]
 aukey.com,bikopek.com##.fixed-cookie
+aukro.at,aukro.cz,aukro.hr,aukro.hu,aukro.pl,aukro.ro,aukro.si,aukro.sk##.cdk-overlay-container:has(auk-email-collector-popup):style(display: none !important;)
+aukro.at,aukro.cz,aukro.hr,aukro.hu,aukro.pl,aukro.ro,aukro.si,aukro.sk##auk-registration-popup
+aukro.at,aukro.cz,aukro.hr,aukro.hu,aukro.pl,aukro.ro,aukro.si,aukro.sk##html.cdk-global-scrollblock:style(position: static !important;)
 aulafacil.com##.faldon-cookies
 aulagear.com,bmz.de##.m-cookie-banner
 aulete.com.br###banner-inferior
@@ -15802,6 +15805,7 @@ cowaymega.com##body:style(overflow: auto !important;)
 cowaymega.com#@#.cookie-popup:not(body):not(html)
 coywolf.com##.preferred
 cozatydzien.tvn.pl,dziendobry.tvn.pl,tvn24.pl##iframe.__ipPerunElement
+cozycozy.com##joli-phone-smartbanner
 cp.beget.com##.tw-fixed.tw-flex
 cp.glico.jp###sec_modal_banner
 cp.mywebinar.com###admin > .topline
@@ -29881,7 +29885,6 @@ jeanswelt.de,moebel-as.de##.acris-cookie-consent:style(display: none !important;
 jeanswelt.de,moebel-as.de##.modal-backdrop:style(display: none !important;)
 jeanswelt.de,moebel-as.de##.modal-open:style(overflow: auto !important;)
 jedlinazdroj.eu###bs_cookie_alert_container
-jedwabiscie.pl,dobiuraidomu.pl,smarthome.spb.ru,arora.com.tr,carbonfootprintfoundation.com,puesc.gov.pl,img.ge,imgbly.com,imagehostx.com,health.mvs.gov.ua,socioswisla.pl,cebupacificair.com,marktplatz.pl,neonica.pl,dpsbudowlani.pl,dpschemik.pl,animephrases.com,artbynumbers.com.ua,spensen.com,ptkardio.pl,expert.ru,courier.unesco.org,energetycznykompas.pl,koleso-russia.ru,izhlife.ru,mi-shop.com,mcbankrus.ru,bankofkazan.ru,rolf.ru,creotech.pl,eurozine.com,e1-card.ru,interhurt.net,klient.gdansk.uw.gov.pl,scantour.ru,skpari.ru,dobry.ru,ugursaat.com.tr,klient.interrisk.pl,mysky-shop.pl,classen.pl,snackit.eu,lajkonik.pl,blsslovakiavisa.com,imgtray.com,dybank.com.tr,imghost.online,perlahelsa.ua,sport5.by,cuprum.media,alpindustria.ru,authgear.com,action.group,rediafile.com,ronesans.com,freshmart.com.ua,promax.media.pl,girlsnotbrides.org,novakid.*,geis-group.cz,vertabelo.com,toshl.com,profikoreni.cz,imghash.com,imghost.net,club4paws.ua,tripster.ru,segodnya.ua,blog.nubank.com.br,novapay.ua,vpn-free.download,btabank.by,home.barclays,zagorodna.com,athexgroup.gr,heyzine.com,gramota.ru,brokenranks.com,poisondrop.ru,wartune.wan.com,portalnovosti.com,infoprice.by,rtl.hr,24ur.com,dozapteka.pl,u24.gov.ua,calltouch.ru,vlab.cz,wybory.gov.pl##.cookies
 jedynka.polskieradio.pl##div[class^="Box-sc-mskus"][width][height][overflow="auto"]
 jeep.com.br,fiat.com.br##.hub-info-bar-vue
 jejuair.net###main > .reflash-pay-banner
@@ -35263,6 +35266,7 @@ mall.cz,mall.sk,mall.hu,mall.hr,mimovrste.com##.legal-consent
 mall.hr###above-header
 mall.ifeng.com##div[class^="index_headerlogo"]
 mall.jd.com##.jTdCode.fixed
+mall.kinarino.jp###app-features-band
 mall.pl##.js-consent-panel
 mallofistanbul.com.tr##+js(set-session-storage-item, cmsPopupShown, true)
 mallofistanbul.com.tr,manga.bilibili.com,foxweather.com,shufuse.com,poczta.interia.pl,forfun.com,tw.yahoo.com##.app-promo
@@ -37399,6 +37403,7 @@ mogilev.online##a[href="https://t.me/mogilevonline"] > img
 moidom.citylink.pro##.player-balloon:style(min-height: auto !important;)
 moika78.ru##.wpb_wrapper > .tdb_single_current_post:has(> .td-fix-index > .yanews-button)
 moika78.ru##.wpb_wrapper > .vc_raw_html:has(> .td-fix-index > .tg-info-text)
+moinvolkspark.de###mvPushPrompt
 moises.ai##.relative > div.flex-col:has(> div[role="group"] > a[title="App Store"])
 moises.ai##footer + div.fixed
 moj.pfron.gov.pl#@#.cookie-overlay:not(html):not(body)
@@ -42146,6 +42151,7 @@ panoramafirm.pl###__msg_overlay
 panoramafirm.pl###rodoLayer
 pansa.pl##.pansa-cookie-notice
 pansci.asia##.pan-notibar-wrap
+pansionaty.com.ua,jedwabiscie.pl,dobiuraidomu.pl,smarthome.spb.ru,arora.com.tr,carbonfootprintfoundation.com,puesc.gov.pl,img.ge,imgbly.com,imagehostx.com,health.mvs.gov.ua,socioswisla.pl,cebupacificair.com,marktplatz.pl,neonica.pl,dpsbudowlani.pl,dpschemik.pl,animephrases.com,artbynumbers.com.ua,spensen.com,ptkardio.pl,expert.ru,courier.unesco.org,energetycznykompas.pl,koleso-russia.ru,izhlife.ru,mi-shop.com,mcbankrus.ru,bankofkazan.ru,rolf.ru,creotech.pl,eurozine.com,e1-card.ru,interhurt.net,klient.gdansk.uw.gov.pl,scantour.ru,skpari.ru,dobry.ru,ugursaat.com.tr,klient.interrisk.pl,mysky-shop.pl,classen.pl,snackit.eu,lajkonik.pl,blsslovakiavisa.com,imgtray.com,dybank.com.tr,imghost.online,perlahelsa.ua,sport5.by,cuprum.media,alpindustria.ru,authgear.com,action.group,rediafile.com,ronesans.com,freshmart.com.ua,promax.media.pl,girlsnotbrides.org,novakid.*,geis-group.cz,vertabelo.com,toshl.com,profikoreni.cz,imghash.com,imghost.net,club4paws.ua,tripster.ru,segodnya.ua,blog.nubank.com.br,novapay.ua,vpn-free.download,btabank.by,home.barclays,zagorodna.com,athexgroup.gr,heyzine.com,gramota.ru,brokenranks.com,poisondrop.ru,wartune.wan.com,portalnovosti.com,infoprice.by,rtl.hr,24ur.com,dozapteka.pl,u24.gov.ua,calltouch.ru,vlab.cz,wybory.gov.pl##.cookies
 pantagraph.com###tncms-region-article_side_middle
 pantene.com.tr,oralb.com.tr,gillettevenus.com.tr###divOneTrustButton
 pantip.com##.pt-snackbar
@@ -43455,8 +43461,10 @@ plus500.com##.sticky-cookie-wrapper
 plusanime.com,wefry.ru,de-tero.ru,apexstreaming.org,hongqi.ru,callibri.ru,app.pitbot.pl,bnb.by,webcomicsapp.com,banggood.com,wbg.nuernberg.de,texterra.ru,medcentr-tula.ru,comparai.com.br,spimovel.com.br,ege-study.ru##.modal-cookie
 plusgaming.yandex.ru##div[class^="EvgenEventWrapper_EvgenEventWrapper"] > div[class^="BottomBanner_BottomBanner"]
 plusizle.org##.v110-app-promo
+pluska.sk###article-subscribe-newsletter
 pluska.sk##+js(remove-class, floating, .hero-video)
 pluska.sk##+js(remove-class, floating, video-livebox > div[data-endscreen="plus1_endscreen"])
+pluska.sk##a[id^="article-follow-"]
 pluspagos.com###cookiesPolicy ~ div.modal-backdrop:style(display: none !important;)
 pluspagos.com###cookiesPolicy:style(display: none !important;)
 pluspagos.com##body:style(overflow: auto !important; padding-right: 0 !important;)
@@ -63044,6 +63052,7 @@ zzzz.lol#?#.widget-side .widget-title:has(+ div a[href^="/bbs/link.php?bo_table=
 ||camonster.io/streams/streams_live.php$domain=nsfwmonster.com
 ||camp-fire.jp/projects/*/view$removeparam=list
 ||campaign-list.com/subscribe/
+||campaign.denikn.cz^
 ||campaign.services.forecast.sirius.press^$domain=lemonde.fr
 ||campaigns-serving.cognativex.com^$xmlhttprequest,removeparam=device_code
 ||campaigns-serving.cognativex.com^$xmlhttprequest,removeparam=exc_ads
